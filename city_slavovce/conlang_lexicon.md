@@ -77,7 +77,7 @@
 
 ### Таверна Старбуркс → Пивоварня Йозефа
 - Stardrop Saloon → **HOSPODA U ZLATÉ HOLOUBKY** («Корчма у Золотого Голубя»)
-- Паб-меню: **PIVO = MEDOVA / CHMELOVAR**, **JÍDLO = TRAVA**? нет: **STRÁVA**
+- Паб-меню: **PIVO = MEDOVA / CHMELOVAR**, еда **JÍDLO = STRÁVA**
 - «Сегодня варится» → **DNES SE VAŘÍ = DNES SA VARI**
 
 ### Музей Гюнтера
