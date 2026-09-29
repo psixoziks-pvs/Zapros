@@ -1,0 +1,1000 @@
+1. Portfolio на Serverless (Cloud Functions) — сложно
+2. Photo Gallery с Docker Compose — нормально
+3. Calendar Scheduler с OAuth2/JWT авторизацией — нормально
+4. Event Booking с микросервисной архитектурой — очень сложно
+5. Recipe Book на React — легко
+6. Dating App в Telegram Bot API — сложно
+7. Landing Page с платёжными интеграциями (Stripe demo) — сложно
+8. Flight Booking на Serverless (Cloud Functions) — очень сложно
+9. Dating App CLI на PowerShell — сложно
+10. Quiz App с Redis очередями — нормально
+11. URL Shortener с Redis очередями — нормально
+12. Poll/Survey на Next.js — нормально
+13. E-commerce Store с offline-first PWA — сложно
+14. Music Player на Vue 3 — нормально
+15. Dating App с Docker Compose — сложно
+16. Quiz App desktop Electron — нормально
+17. CMS Ruby on Rails — сложно
+18. URL Shortener на Nuxt — нормально
+19. Poll/Survey на Python + Tkinter — легко
+20. Fitness Tracker с MongoDB — нормально
+21. Quiz App на Go + Gin — нормально
+22. Portfolio с offline-first PWA — нормально
+23. Restaurant Ordering native iOS (SwiftUI) — сложно
+24. Budget Tracker с Kubernetes деплоем — сложно
+25. Real Estate Listings с PostgreSQL — сложно
+26. Chat desktop Qt/C++ — очень сложно
+27. Wiki с offline-first PWA — нормально
+28. Inventory System в Discord.js — нормально
+29. Hotel Booking на Serverless (Cloud Functions) — очень сложно
+30. Dating App CLI на Bash — сложно
+31. Poll/Survey с ML-фичами (recommendation) — сложно
+32. Car Rental на Django — сложно
+33. E-commerce Store на Next.js — сложно
+34. Portfolio с Kubernetes деплоем — сложно
+35. Password Manager mobile Flutter — нормально
+36. Portfolio CLI на Bash — очень легко
+37. Notes App с CI/CD GitHub Actions — нормально
+38. Blog Platform с Redis очередями — нормально
+39. Habit Tracker в Telegram Bot API — легко
+40. Social Network на Java Spring Boot — очень сложно
+41. URL Shortener на Angular — нормально
+42. URL Shortener с event sourcing и CQRS — очень сложно
+43. Job Board с offline-first PWA — сложно
+44. Restaurant Ordering на Rust + Actix — очень сложно
+45. Calendar Scheduler на Python + FastAPI — нормально
+46. Weather Dashboard на Java Spring Boot — нормально
+47. Social Network с Docker Compose — очень сложно
+48. Notes App на Django — нормально
+49. Job Board с платёжными интеграциями (Stripe demo) — очень сложно
+50. Password Manager с offline-first PWA — нормально
+51. Quiz App CLI на PowerShell — легко
+52. Book Library с PostgreSQL — нормально
+53. Book Library на Java Spring Boot — нормально
+54. Flight Booking на Nuxt — сложно
+55. Notes App в Telegram Bot API — легко
+56. Wiki mobile React Native — нормально
+57. Restaurant Ordering с ML-фичами (recommendation) — очень сложно
+58. Todo на Go + Gin — нормально
+59. Dating App desktop Electron — сложно
+60. Helpdesk Tickets на Java Spring Boot — нормально
+61. Budget Tracker на Serverless (Cloud Functions) — сложно
+62. Fitness Tracker desktop Qt/C++ — сложно
+63. Book Library на Python + Flask — нормально
+64. Video Streaming с GraphQL — очень сложно
+65. Real Estate Listings с GraphQL — сложно
+66. Photo Gallery с PostgreSQL — нормально
+67. Forum mobile Flutter — сложно
+68. Quiz App с PostgreSQL — нормально
+69. Flight Booking на Svelte — сложно
+70. URL Shortener с offline-first PWA — нормально
+71. Portfolio с GraphQL — нормально
+72. Car Rental native Android (Kotlin) — сложно
+73. Video Streaming desktop Qt/C++ — очень сложно
+74. Habit Tracker с Docker Compose — нормально
+75. Recipe Book mobile React Native — нормально
+76. Photo Gallery на Svelte — легко
+77. Portfolio с Redis очередями — нормально
+78. Dating App на Go + Gin — сложно
+79. Music Player на Go + Gin — нормально
+80. Restaurant Ordering на Node.js + Express — сложно
+81. Wiki на Python + FastAPI — нормально
+82. Restaurant Ordering mobile Flutter — сложно
+83. Habit Tracker в Discord.js — легко
+84. Calendar Scheduler на React — нормально
+85. Inventory System на Python + Flask — нормально
+86. Budget Tracker на Next.js — нормально
+87. E-commerce Store на PHP + Laravel — сложно
+88. Password Manager на Java Spring Boot — нормально
+89. Todo с Redis очередями — нормально
+90. URL Shortener mobile Flutter — нормально
+91. Photo Gallery native iOS (SwiftUI) — нормально
+92. Podcast App с распределённой consensus-логикой — невозможно
+93. Helpdesk Tickets с CI/CD GitHub Actions — нормально
+94. Flight Booking с ML-фичами (recommendation) — очень сложно
+95. Restaurant Ordering в Telegram Bot API — сложно
+96. Calendar Scheduler desktop Electron — нормально
+97. Inventory System desktop Electron — нормально
+98. Car Rental на Python + Flask — сложно
+99. CRM с микросервисной архитектурой — очень сложно
+100. File Sharing с GraphQL — нормально
+101. Photo Gallery на Rust + Actix — сложно
+102. Hotel Booking на Python + Flask — сложно
+103. Helpdesk Tickets native iOS (SwiftUI) — нормально
+104. URL Shortener на C# ASP.NET Core — нормально
+105. Real Estate Listings на Next.js — сложно
+106. Helpdesk Tickets на Vue 3 — нормально
+107. Wiki Ruby on Rails — нормально
+108. Dating App на Angular — сложно
+109. Todo на PHP + Laravel — нормально
+110. Video Streaming на Java Spring Boot — очень сложно
+111. Learning LMS с PostgreSQL — сложно
+112. CMS с PostgreSQL — сложно
+113. Fitness Tracker на Next.js — нормально
+114. Blog Platform с тестами Playwright — нормально
+115. Calendar Scheduler CLI на Bash — нормально
+116. Habit Tracker desktop Electron — нормально
+117. Restaurant Ordering в Discord.js — сложно
+118. Habit Tracker на PHP + Laravel — нормально
+119. Car Rental на Vue 3 — сложно
+120. Social Network на Next.js — очень сложно
+121. Music Player с ML-фичами (recommendation) — сложно
+122. Book Library на React — нормально
+123. Habit Tracker на Django — нормально
+124. Poll/Survey mobile Flutter — нормально
+125. Blog Platform на Java Spring Boot — нормально
+126. Password Manager с CI/CD GitHub Actions — нормально
+127. Notes App на Next.js — нормально
+128. Password Manager с PostgreSQL — нормально
+129. Fitness Tracker на Python + Flask — нормально
+130. Restaurant Ordering с GraphQL — сложно
+131. Wiki на Go + Gin — нормально
+132. CMS с WebSocket real-time — очень сложно
+133. CRM на Python + FastAPI — сложно
+134. Portfolio на Python + Flask — легко
+135. Blog Platform native Android (Kotlin) — нормально
+136. Real Estate Listings с offline-first PWA — сложно
+137. Podcast App с GraphQL — нормально
+138. Social Network с MongoDB — очень сложно
+139. Dating App с Redis очередями — сложно
+140. Car Rental на Angular — сложно
+141. Inventory System mobile React Native — нормально
+142. Poll/Survey CLI на Bash — легко
+143. Car Rental на C# ASP.NET Core — сложно
+144. Chat на Angular — сложно
+145. Flight Booking на React — сложно
+146. Book Library на Django — нормально
+147. File Sharing с WebSocket real-time — сложно
+148. CRM с offline-first PWA — сложно
+149. Fitness Tracker на Nuxt — нормально
+150. Landing Page Ruby on Rails — нормально
+151. Flight Booking CLI на PowerShell — сложно
+152. Event Booking с OAuth2/JWT авторизацией — сложно
+153. Forum на C# ASP.NET Core — сложно
+154. Podcast App с CI/CD GitHub Actions — нормально
+155. Learning LMS desktop Electron — сложно
+156. Helpdesk Tickets с распределённой consensus-логикой — невозможно
+157. Flashcards mobile Flutter — нормально
+158. Poll/Survey desktop Electron — нормально
+159. Book Library с тестами Playwright — нормально
+160. Habit Tracker на Next.js — нормально
+161. Inventory System на Svelte — нормально
+162. Video Streaming на Vue 3 — очень сложно
+163. Password Manager на Python + FastAPI — нормально
+164. E-commerce Store с OAuth2/JWT авторизацией — сложно
+165. Habit Tracker mobile Flutter — нормально
+166. Photo Gallery на Python + FastAPI — нормально
+167. Flight Booking на Python + Flask — сложно
+168. Fitness Tracker на Java Spring Boot — нормально
+169. Hotel Booking с распределённой consensus-логикой — невозможно
+170. Social Network на Serverless (Cloud Functions) — очень сложно
+171. E-commerce Store с Redis очередями — сложно
+172. Habit Tracker на Rust + Actix — сложно
+173. Book Library на C# ASP.NET Core — нормально
+174. Helpdesk Tickets на Django — нормально
+175. CRM с распределённой consensus-логикой — невозможно
+176. Notes App с MongoDB — легко
+177. Podcast App с WebSocket real-time — сложно
+178. Recipe Book CLI на PowerShell — легко
+179. Restaurant Ordering на Nuxt — сложно
+180. Video Streaming desktop Electron — очень сложно
+181. CMS CLI на Bash — сложно
+182. Blog Platform на Next.js — нормально
+183. CRM с Kubernetes деплоем — очень сложно
+184. E-commerce Store с платёжными интеграциями (Stripe demo) — очень сложно
+185. Event Booking mobile React Native — сложно
+186. Helpdesk Tickets с тестами Playwright — нормально
+187. Dating App на Nuxt — сложно
+188. Weather Dashboard с распределённой consensus-логикой — невозможно
+189. Todo на чистом HTML/CSS/JS — нормально
+190. Chat с event sourcing и CQRS — очень сложно
+191. Quiz App native iOS (SwiftUI) — нормально
+192. Chat с PostgreSQL — сложно
+193. Job Board с MongoDB — сложно
+194. Book Library с offline-first PWA — нормально
+195. Car Rental с MongoDB — сложно
+196. Todo на Rust + Actix — сложно
+197. Helpdesk Tickets с event sourcing и CQRS — очень сложно
+198. Inventory System native iOS (SwiftUI) — нормально
+199. File Sharing на Rust + Actix — сложно
+200. Notes App на Java Spring Boot — нормально
+201. Notes App на Angular — нормально
+202. Music Player на Java Spring Boot — нормально
+203. CMS на Python + Flask — сложно
+204. Poll/Survey с платёжными интеграциями (Stripe demo) — сложно
+205. Restaurant Ordering с платёжными интеграциями (Stripe demo) — очень сложно
+206. Password Manager с OAuth2/JWT авторизацией — нормально
+207. E-commerce Store native iOS (SwiftUI) — сложно
+208. Forum на Svelte — сложно
+209. Job Board с микросервисной архитектурой — очень сложно
+210. Event Booking в Telegram Bot API — сложно
+211. Flashcards на Nuxt — нормально
+212. Weather Dashboard с OAuth2/JWT авторизацией — нормально
+213. Weather Dashboard на Python + Tkinter — легко
+214. Real Estate Listings с Docker Compose — сложно
+215. CMS mobile React Native — сложно
+216. Wiki с платёжными интеграциями (Stripe demo) — сложно
+217. Blog Platform на C# ASP.NET Core — нормально
+218. Quiz App с ML-фичами (recommendation) — сложно
+219. Recipe Book CLI на Bash — легко
+220. Music Player в Telegram Bot API — нормально
+221. Helpdesk Tickets на Python + Tkinter — нормально
+222. Flight Booking с OAuth2/JWT авторизацией — сложно
+223. Chat с тестами Playwright — сложно
+224. Learning LMS с MongoDB — сложно
+225. Flight Booking на Node.js + Express — сложно
+226. CMS native Android (Kotlin) — сложно
+227. Job Board с WebSocket real-time — очень сложно
+228. Fitness Tracker на Serverless (Cloud Functions) — сложно
+229. Learning LMS на Vue 3 — сложно
+230. CRM с WebSocket real-time — очень сложно
+231. Calendar Scheduler в Telegram Bot API — нормально
+232. Password Manager с Redis очередями — нормально
+233. Habit Tracker mobile React Native — нормально
+234. URL Shortener desktop Qt/C++ — сложно
+235. Habit Tracker на Vue 3 — легко
+236. Habit Tracker на Angular — нормально
+237. Wiki mobile Flutter — нормально
+238. Social Network с Redis очередями — очень сложно
+239. CRM mobile React Native — сложно
+240. Podcast App на React — нормально
+241. CMS native iOS (SwiftUI) — сложно
+242. Car Rental desktop Qt/C++ — очень сложно
+243. URL Shortener с платёжными интеграциями (Stripe demo) — сложно
+244. Hotel Booking с event sourcing и CQRS — очень сложно
+245. URL Shortener с CI/CD GitHub Actions — нормально
+246. Learning LMS desktop Qt/C++ — очень сложно
+247. Hotel Booking CLI на PowerShell — сложно
+248. Music Player с распределённой consensus-логикой — невозможно
+249. CMS с event sourcing и CQRS — очень сложно
+250. Flight Booking на Angular — сложно
+251. CRM в Telegram Bot API — сложно
+252. Video Streaming на Next.js — очень сложно
+253. CMS на Python + Tkinter — сложно
+254. Todo mobile React Native — нормально
+255. Hotel Booking native iOS (SwiftUI) — сложно
+256. Budget Tracker desktop Electron — нормально
+257. Habit Tracker с ML-фичами (recommendation) — сложно
+258. Social Network на C# ASP.NET Core — очень сложно
+259. Quiz App с Kubernetes деплоем — сложно
+260. Car Rental в Discord.js — сложно
+261. Video Streaming с offline-first PWA — очень сложно
+262. Flight Booking с Kubernetes деплоем — очень сложно
+263. Budget Tracker на Python + Flask — нормально
+264. Social Network с WebSocket real-time — очень сложно
+265. Calendar Scheduler с Docker Compose — нормально
+266. Weather Dashboard Ruby on Rails — нормально
+267. Inventory System на Go + Gin — нормально
+268. Photo Gallery с микросервисной архитектурой — очень сложно
+269. Car Rental на Java Spring Boot — сложно
+270. Video Streaming native Android (Kotlin) — очень сложно
+271. Quiz App в Telegram Bot API — легко
+272. Landing Page на Django — нормально
+273. Notes App native Android (Kotlin) — нормально
+274. Dating App в Discord.js — сложно
+275. Habit Tracker на C# ASP.NET Core — нормально
+276. Forum на Go + Gin — сложно
+277. Video Streaming Ruby on Rails — очень сложно
+278. Habit Tracker с CI/CD GitHub Actions — нормально
+279. Photo Gallery на Go + Gin — нормально
+280. CRM на PHP + Laravel — сложно
+281. Music Player на PHP + Laravel — нормально
+282. Podcast App в Discord.js — нормально
+283. Portfolio с распределённой consensus-логикой — невозможно
+284. Event Booking на Serverless (Cloud Functions) — очень сложно
+285. Hotel Booking mobile Flutter — сложно
+286. Weather Dashboard mobile Flutter — нормально
+287. Fitness Tracker на Node.js + Express — нормально
+288. Portfolio в Telegram Bot API — легко
+289. URL Shortener в Discord.js — легко
+290. Podcast App с микросервисной архитектурой — очень сложно
+291. Budget Tracker mobile React Native — нормально
+292. URL Shortener на чистом HTML/CSS/JS — легко
+293. Forum mobile React Native — сложно
+294. Chat с WebSocket real-time — очень сложно
+295. Weather Dashboard с ML-фичами (recommendation) — сложно
+296. Event Booking в Discord.js — сложно
+297. Event Booking на Node.js + Express — сложно
+298. Social Network на Nuxt — очень сложно
+299. Learning LMS на чистом HTML/CSS/JS — сложно
+300. Dating App с тестами Playwright — сложно
+301. Helpdesk Tickets с платёжными интеграциями (Stripe demo) — сложно
+302. Video Streaming на React — очень сложно
+303. Music Player с MongoDB — нормально
+304. Flight Booking mobile React Native — сложно
+305. Poll/Survey CLI на PowerShell — легко
+306. Poll/Survey на Go + Gin — нормально
+307. Calendar Scheduler desktop Qt/C++ — сложно
+308. Quiz App на React — легко
+309. Portfolio CLI на PowerShell — легко
+310. Calendar Scheduler с CI/CD GitHub Actions — нормально
+311. Chat в Discord.js — сложно
+312. Music Player на чистом HTML/CSS/JS — нормально
+313. Event Booking с GraphQL — сложно
+314. Inventory System с ML-фичами (recommendation) — сложно
+315. Todo с offline-first PWA — нормально
+316. Event Booking на чистом HTML/CSS/JS — сложно
+317. Hotel Booking CLI на Bash — сложно
+318. Quiz App desktop Qt/C++ — сложно
+319. Budget Tracker с GraphQL — нормально
+320. Hotel Booking на PHP + Laravel — сложно
+321. Inventory System с PostgreSQL — нормально
+322. Hotel Booking с платёжными интеграциями (Stripe demo) — очень сложно
+323. Password Manager с тестами Playwright — нормально
+324. Real Estate Listings с Redis очередями — сложно
+325. Portfolio с OAuth2/JWT авторизацией — нормально
+326. Flashcards с MongoDB — легко
+327. Photo Gallery на Vue 3 — легко
+328. Landing Page в Discord.js — легко
+329. CRM desktop Electron — сложно
+330. Music Player на Angular — нормально
+331. Flight Booking с MongoDB — сложно
+332. Wiki native iOS (SwiftUI) — нормально
+333. Landing Page на Rust + Actix — сложно
+334. Flashcards native Android (Kotlin) — нормально
+335. Real Estate Listings с Kubernetes деплоем — очень сложно
+336. Notes App desktop Electron — нормально
+337. File Sharing с PostgreSQL — нормально
+338. Habit Tracker native Android (Kotlin) — нормально
+339. Todo на Django — нормально
+340. Todo на Vue 3 — нормально
+341. Restaurant Ordering с Kubernetes деплоем — очень сложно
+342. Dating App с offline-first PWA — сложно
+343. Helpdesk Tickets с ML-фичами (recommendation) — сложно
+344. Flashcards с offline-first PWA — нормально
+345. Restaurant Ordering с распределённой consensus-логикой — невозможно
+346. Photo Gallery с распределённой consensus-логикой — невозможно
+347. CMS на Svelte — сложно
+348. Calendar Scheduler с микросервисной архитектурой — очень сложно
+349. Fitness Tracker с Kubernetes деплоем — сложно
+350. Dating App с PostgreSQL — сложно
+351. Budget Tracker с event sourcing и CQRS — очень сложно
+352. Job Board CLI на PowerShell — сложно
+353. CRM на Rust + Actix — очень сложно
+354. Wiki на C# ASP.NET Core — нормально
+355. Hotel Booking с тестами Playwright — сложно
+356. Podcast App desktop Qt/C++ — сложно
+357. Book Library на Next.js — нормально
+358. Inventory System в Telegram Bot API — нормально
+359. Recipe Book с микросервисной архитектурой — очень сложно
+360. Real Estate Listings на Vue 3 — сложно
+361. Wiki на Angular — нормально
+362. Wiki в Telegram Bot API — нормально
+363. Chat с Docker Compose — сложно
+364. Fitness Tracker с CI/CD GitHub Actions — нормально
+365. Password Manager с Kubernetes деплоем — сложно
+366. Recipe Book на Svelte — легко
+367. Chat в Telegram Bot API — сложно
+368. Fitness Tracker с PostgreSQL — нормально
+369. Recipe Book на C# ASP.NET Core — нормально
+370. CMS на Python + FastAPI — сложно
+371. Forum desktop Qt/C++ — очень сложно
+372. Quiz App на чистом HTML/CSS/JS — легко
+373. Flashcards mobile React Native — нормально
+374. Video Streaming на Python + FastAPI — очень сложно
+375. Podcast App CLI на Bash — нормально
+376. Hotel Booking на Go + Gin — сложно
+377. CMS на Angular — сложно
+378. Weather Dashboard на Next.js — нормально
+379. Recipe Book с тестами Playwright — нормально
+380. Quiz App в Discord.js — легко
+381. Learning LMS native Android (Kotlin) — сложно
+382. Job Board desktop Electron — сложно
+383. Dating App на Python + Tkinter — сложно
+384. Notes App на чистом HTML/CSS/JS — легко
+385. Car Rental mobile React Native — сложно
+386. Notes App с Docker Compose — нормально
+387. Forum на Angular — сложно
+388. Podcast App на Nuxt — нормально
+389. Restaurant Ordering на C# ASP.NET Core — сложно
+390. Weather Dashboard с PostgreSQL — нормально
+391. E-commerce Store с WebSocket real-time — очень сложно
+392. Photo Gallery с event sourcing и CQRS — очень сложно
+393. Event Booking native iOS (SwiftUI) — сложно
+394. Flight Booking с WebSocket real-time — очень сложно
+395. Recipe Book на Serverless (Cloud Functions) — сложно
+396. Book Library CLI на PowerShell — нормально
+397. Learning LMS на Node.js + Express — сложно
+398. Event Booking на Django — сложно
+399. Real Estate Listings с платёжными интеграциями (Stripe demo) — очень сложно
+400. CMS mobile Flutter — сложно
+401. Social Network с PostgreSQL — очень сложно
+402. Flight Booking desktop Electron — сложно
+403. Flight Booking с offline-first PWA — сложно
+404. Learning LMS на Angular — сложно
+405. Social Network на Go + Gin — очень сложно
+406. Recipe Book на Python + Tkinter — легко
+407. Quiz App Ruby on Rails — нормально
+408. Podcast App CLI на PowerShell — нормально
+409. Music Player на Serverless (Cloud Functions) — сложно
+410. Calendar Scheduler на Svelte — нормально
+411. Music Player с OAuth2/JWT авторизацией — нормально
+412. Budget Tracker с PostgreSQL — нормально
+413. CRM с Redis очередями — сложно
+414. Notes App с OAuth2/JWT авторизацией — нормально
+415. Music Player в Discord.js — нормально
+416. Portfolio с event sourcing и CQRS — очень сложно
+417. Flashcards на Java Spring Boot — нормально
+418. Music Player на Django — нормально
+419. Notes App в Discord.js — легко
+420. Real Estate Listings на Nuxt — сложно
+421. Real Estate Listings CLI на Bash — сложно
+422. Real Estate Listings на Angular — сложно
+423. File Sharing с Redis очередями — нормально
+424. Habit Tracker с PostgreSQL — нормально
+425. Helpdesk Tickets desktop Qt/C++ — сложно
+426. Book Library с CI/CD GitHub Actions — нормально
+427. Dating App на Svelte — сложно
+428. Learning LMS на Serverless (Cloud Functions) — очень сложно
+429. Blog Platform на Python + Tkinter — нормально
+430. Helpdesk Tickets с WebSocket real-time — сложно
+431. Fitness Tracker на Rust + Actix — сложно
+432. Fitness Tracker в Discord.js — нормально
+433. Job Board native iOS (SwiftUI) — сложно
+434. Social Network CLI на Bash — очень сложно
+435. Habit Tracker с тестами Playwright — нормально
+436. Dating App desktop Qt/C++ — очень сложно
+437. Dating App на Node.js + Express — сложно
+438. Inventory System на Node.js + Express — нормально
+439. Fitness Tracker с event sourcing и CQRS — очень сложно
+440. E-commerce Store в Telegram Bot API — сложно
+441. CMS с Redis очередями — сложно
+442. Event Booking на Python + FastAPI — сложно
+443. Calendar Scheduler с event sourcing и CQRS — очень сложно
+444. Poll/Survey с Redis очередями — нормально
+445. Event Booking с offline-first PWA — сложно
+446. Chat на Go + Gin — сложно
+447. Book Library native iOS (SwiftUI) — нормально
+448. Password Manager desktop Electron — нормально
+449. Flight Booking с микросервисной архитектурой — очень сложно
+450. Poll/Survey с WebSocket real-time — сложно
+451. Job Board на Svelte — сложно
+452. Budget Tracker с тестами Playwright — нормально
+453. Notes App на Rust + Actix — сложно
+454. Recipe Book с распределённой consensus-логикой — невозможно
+455. Flashcards на Python + FastAPI — нормально
+456. Car Rental с PostgreSQL — сложно
+457. Real Estate Listings mobile React Native — сложно
+458. Podcast App desktop Electron — нормально
+459. E-commerce Store с Docker Compose — сложно
+460. Event Booking с Redis очередями — сложно
+461. Inventory System на Angular — нормально
+462. Video Streaming с платёжными интеграциями (Stripe demo) — очень сложно
+463. Flight Booking на Vue 3 — сложно
+464. Job Board с тестами Playwright — сложно
+465. Flashcards на Go + Gin — нормально
+466. Portfolio на PHP + Laravel — нормально
+467. Recipe Book с Kubernetes деплоем — сложно
+468. Portfolio с Docker Compose — нормально
+469. Weather Dashboard на Angular — нормально
+470. Hotel Booking с микросервисной архитектурой — очень сложно
+471. File Sharing на Serverless (Cloud Functions) — сложно
+472. URL Shortener mobile React Native — нормально
+473. Flashcards в Discord.js — легко
+474. Real Estate Listings на PHP + Laravel — сложно
+475. Landing Page на Python + Tkinter — легко
+476. Helpdesk Tickets с offline-first PWA — нормально
+477. Photo Gallery на C# ASP.NET Core — нормально
+478. Fitness Tracker с микросервисной архитектурой — очень сложно
+479. Restaurant Ordering на Java Spring Boot — сложно
+480. Event Booking с Kubernetes деплоем — очень сложно
+481. Helpdesk Tickets в Discord.js — нормально
+482. Poll/Survey с Kubernetes деплоем — сложно
+483. Inventory System на Nuxt — нормально
+484. Weather Dashboard native Android (Kotlin) — нормально
+485. Car Rental с Kubernetes деплоем — очень сложно
+486. Portfolio на C# ASP.NET Core — нормально
+487. Helpdesk Tickets на React — нормально
+488. Chat на чистом HTML/CSS/JS — сложно
+489. Dating App с event sourcing и CQRS — очень сложно
+490. CRM на React — сложно
+491. Flashcards на React — легко
+492. Habit Tracker CLI на Bash — легко
+493. URL Shortener с Kubernetes деплоем — сложно
+494. Forum на Node.js + Express — сложно
+495. File Sharing desktop Electron — нормально
+496. Job Board на Vue 3 — сложно
+497. File Sharing на Python + Tkinter — нормально
+498. E-commerce Store CLI на Bash — сложно
+499. Real Estate Listings с WebSocket real-time — очень сложно
+500. Music Player Ruby on Rails — нормально
+501. E-commerce Store с Kubernetes деплоем — очень сложно
+502. Todo CLI на Bash — нормально
+503. Photo Gallery на Nuxt — нормально
+504. CRM на Svelte — сложно
+505. Hotel Booking mobile React Native — сложно
+506. Notes App native iOS (SwiftUI) — нормально
+507. CRM CLI на PowerShell — сложно
+508. Blog Platform CLI на PowerShell — нормально
+509. Calendar Scheduler на Go + Gin — нормально
+510. Quiz App с event sourcing и CQRS — очень сложно
+511. Dating App mobile Flutter — сложно
+512. Notes App на React — легко
+513. Flashcards на Python + Flask — легко
+514. CMS на Vue 3 — сложно
+515. Habit Tracker на React — легко
+516. File Sharing на Nuxt — нормально
+517. Music Player на Node.js + Express — нормально
+518. Chat CLI на Bash — сложно
+519. Weather Dashboard с Kubernetes деплоем — сложно
+520. Notes App на C# ASP.NET Core — нормально
+521. Todo в Telegram Bot API — нормально
+522. Flight Booking mobile Flutter — сложно
+523. Real Estate Listings на Svelte — сложно
+524. Restaurant Ordering Ruby on Rails — сложно
+525. Poll/Survey native iOS (SwiftUI) — нормально
+526. Helpdesk Tickets desktop Electron — нормально
+527. Flashcards с PostgreSQL — нормально
+528. Learning LMS на Python + Tkinter — сложно
+529. Job Board в Telegram Bot API — сложно
+530. Wiki на Python + Flask — нормально
+531. Flight Booking на C# ASP.NET Core — сложно
+532. Habit Tracker с event sourcing и CQRS — очень сложно
+533. Recipe Book с GraphQL — нормально
+534. File Sharing на React — нормально
+535. Book Library на Serverless (Cloud Functions) — сложно
+536. Calendar Scheduler в Discord.js — нормально
+537. Job Board на чистом HTML/CSS/JS — сложно
+538. Password Manager Ruby on Rails — нормально
+539. CRM на чистом HTML/CSS/JS — сложно
+540. Flight Booking с Redis очередями — сложно
+541. Wiki с ML-фичами (recommendation) — сложно
+542. Notes App с тестами Playwright — нормально
+543. Habit Tracker на Java Spring Boot — нормально
+544. Habit Tracker с OAuth2/JWT авторизацией — нормально
+545. Hotel Booking native Android (Kotlin) — сложно
+546. Poll/Survey mobile React Native — нормально
+547. Photo Gallery с offline-first PWA — нормально
+548. Portfolio на Vue 3 — легко
+549. Inventory System на PHP + Laravel — нормально
+550. Calendar Scheduler mobile Flutter — нормально
+551. Landing Page с WebSocket real-time — сложно
+552. CMS с микросервисной архитектурой — очень сложно
+553. E-commerce Store Ruby on Rails — сложно
+554. Real Estate Listings на Python + FastAPI — сложно
+555. Wiki на Node.js + Express — нормально
+556. CMS на Go + Gin — сложно
+557. Fitness Tracker native iOS (SwiftUI) — нормально
+558. Quiz App на Python + Flask — легко
+559. Photo Gallery с CI/CD GitHub Actions — нормально
+560. Landing Page на React — легко
+561. Poll/Survey на Vue 3 — легко
+562. File Sharing mobile React Native — нормально
+563. Password Manager на Angular — нормально
+564. Video Streaming с распределённой consensus-логикой — невозможно
+565. File Sharing на Angular — нормально
+566. Quiz App mobile Flutter — нормально
+567. Car Rental с offline-first PWA — сложно
+568. Event Booking CLI на PowerShell — сложно
+569. Fitness Tracker Ruby on Rails — нормально
+570. Car Rental на Serverless (Cloud Functions) — очень сложно
+571. Habit Tracker native iOS (SwiftUI) — нормально
+572. Todo на Python + FastAPI — нормально
+573. Dating App на чистом HTML/CSS/JS — сложно
+574. CMS в Discord.js — сложно
+575. Calendar Scheduler на Angular — нормально
+576. Chat на Python + Flask — сложно
+577. Habit Tracker с распределённой consensus-логикой — невозможно
+578. Hotel Booking с Docker Compose — сложно
+579. Notes App с распределённой consensus-логикой — невозможно
+580. Helpdesk Tickets на Angular — нормально
+581. Social Network с платёжными интеграциями (Stripe demo) — очень сложно
+582. Helpdesk Tickets с микросервисной архитектурой — очень сложно
+583. Event Booking на Rust + Actix — очень сложно
+584. Calendar Scheduler с GraphQL — нормально
+585. Inventory System на Java Spring Boot — нормально
+586. Real Estate Listings на Java Spring Boot — сложно
+587. Car Rental на Nuxt — сложно
+588. Helpdesk Tickets с Docker Compose — нормально
+589. Portfolio на Next.js — нормально
+590. Social Network на чистом HTML/CSS/JS — очень сложно
+591. Job Board на PHP + Laravel — сложно
+592. Helpdesk Tickets на Rust + Actix — сложно
+593. Blog Platform с WebSocket real-time — сложно
+594. Video Streaming с тестами Playwright — очень сложно
+595. Notes App с Redis очередями — нормально
+596. Portfolio с CI/CD GitHub Actions — нормально
+597. Inventory System с CI/CD GitHub Actions — нормально
+598. Helpdesk Tickets с Kubernetes деплоем — сложно
+599. Flight Booking на Python + Tkinter — сложно
+600. Todo на Nuxt — нормально
+601. E-commerce Store mobile React Native — сложно
+602. Fitness Tracker на чистом HTML/CSS/JS — нормально
+603. Flight Booking с платёжными интеграциями (Stripe demo) — очень сложно
+604. Password Manager на Node.js + Express — нормально
+605. Forum на Next.js — сложно
+606. Password Manager на PHP + Laravel — нормально
+607. Poll/Survey на Node.js + Express — легко
+608. Event Booking на Python + Flask — сложно
+609. Budget Tracker с Docker Compose — нормально
+610. Photo Gallery на чистом HTML/CSS/JS — легко
+611. Blog Platform с MongoDB — нормально
+612. Portfolio на чистом HTML/CSS/JS — очень легко
+613. Hotel Booking на Python + Tkinter — сложно
+614. Learning LMS в Discord.js — сложно
+615. Poll/Survey на Django — нормально
+616. Forum Ruby on Rails — сложно
+617. Weather Dashboard с платёжными интеграциями (Stripe demo) — сложно
+618. File Sharing на Go + Gin — нормально
+619. Real Estate Listings на Rust + Actix — очень сложно
+620. URL Shortener на Rust + Actix — сложно
+621. Job Board Ruby on Rails — сложно
+622. Hotel Booking на Vue 3 — сложно
+623. E-commerce Store на Rust + Actix — очень сложно
+624. CMS с Kubernetes деплоем — очень сложно
+625. Weather Dashboard на C# ASP.NET Core — нормально
+626. Blog Platform на Django — нормально
+627. Photo Gallery с Kubernetes деплоем — сложно
+628. Real Estate Listings на Go + Gin — сложно
+629. Weather Dashboard на чистом HTML/CSS/JS — легко
+630. Learning LMS на Nuxt — сложно
+631. Blog Platform на Svelte — нормально
+632. Fitness Tracker на PHP + Laravel — нормально
+633. Password Manager CLI на Bash — нормально
+634. Helpdesk Tickets на чистом HTML/CSS/JS — нормально
+635. Flashcards на Django — нормально
+636. Blog Platform с GraphQL — нормально
+637. Habit Tracker с WebSocket real-time — сложно
+638. Dating App с ML-фичами (recommendation) — очень сложно
+639. Podcast App с MongoDB — нормально
+640. Music Player на Python + Tkinter — нормально
+641. CMS с GraphQL — сложно
+642. Job Board с распределённой consensus-логикой — невозможно
+643. Budget Tracker desktop Qt/C++ — сложно
+644. Habit Tracker на Node.js + Express — легко
+645. File Sharing на Node.js + Express — нормально
+646. Notes App mobile React Native — нормально
+647. Car Rental mobile Flutter — сложно
+648. Learning LMS на Django — сложно
+649. File Sharing на Svelte — нормально
+650. Budget Tracker на Nuxt — нормально
+651. Photo Gallery на Angular — нормально
+652. Helpdesk Tickets mobile Flutter — нормально
+653. URL Shortener на Python + FastAPI — нормально
+654. Notes App CLI на PowerShell — легко
+655. Chat на React — сложно
+656. Password Manager native Android (Kotlin) — нормально
+657. Weather Dashboard на React — легко
+658. Video Streaming с event sourcing и CQRS — очень сложно
+659. CMS с Docker Compose — сложно
+660. Flight Booking на Python + FastAPI — сложно
+661. Poll/Survey на Python + Flask — легко
+662. Dating App с платёжными интеграциями (Stripe demo) — очень сложно
+663. Real Estate Listings desktop Electron — сложно
+664. Forum на Python + Flask — сложно
+665. Helpdesk Tickets native Android (Kotlin) — нормально
+666. Forum с ML-фичами (recommendation) — очень сложно
+667. Quiz App с распределённой consensus-логикой — невозможно
+668. Poll/Survey desktop Qt/C++ — сложно
+669. CMS с OAuth2/JWT авторизацией — сложно
+670. Photo Gallery с GraphQL — нормально
+671. Learning LMS с ML-фичами (recommendation) — очень сложно
+672. Video Streaming mobile React Native — очень сложно
+673. Social Network на Vue 3 — очень сложно
+674. Video Streaming CLI на Bash — очень сложно
+675. Podcast App с PostgreSQL — нормально
+676. Social Network на Angular — очень сложно
+677. Learning LMS на Python + FastAPI — сложно
+678. Podcast App с платёжными интеграциями (Stripe demo) — сложно
+679. Wiki на чистом HTML/CSS/JS — нормально
+680. Portfolio на Rust + Actix — сложно
+681. Learning LMS с распределённой consensus-логикой — невозможно
+682. Social Network на Python + Tkinter — очень сложно
+683. Inventory System с offline-first PWA — нормально
+684. Video Streaming с OAuth2/JWT авторизацией — очень сложно
+685. Fitness Tracker на Go + Gin — нормально
+686. Restaurant Ordering с MongoDB — сложно
+687. Inventory System с Docker Compose — нормально
+688. Quiz App на PHP + Laravel — нормально
+689. CRM на Vue 3 — сложно
+690. Password Manager на чистом HTML/CSS/JS — нормально
+691. Social Network на React — очень сложно
+692. Habit Tracker desktop Qt/C++ — сложно
+693. Music Player CLI на PowerShell — нормально
+694. Landing Page на Python + Flask — легко
+695. Chat Ruby on Rails — сложно
+696. Notes App с Kubernetes деплоем — сложно
+697. Blog Platform с event sourcing и CQRS — очень сложно
+698. Wiki с WebSocket real-time — сложно
+699. Podcast App Ruby on Rails — нормально
+700. Calendar Scheduler с Kubernetes деплоем — сложно
+701. Book Library с MongoDB — нормально
+702. Forum с тестами Playwright — сложно
+703. Inventory System native Android (Kotlin) — нормально
+704. Poll/Survey с event sourcing и CQRS — очень сложно
+705. Quiz App с CI/CD GitHub Actions — нормально
+706. Dating App с CI/CD GitHub Actions — сложно
+707. Car Rental с тестами Playwright — сложно
+708. Flight Booking desktop Qt/C++ — очень сложно
+709. Poll/Survey с PostgreSQL — нормально
+710. Quiz App с платёжными интеграциями (Stripe demo) — сложно
+711. Restaurant Ordering на Angular — сложно
+712. Learning LMS с Kubernetes деплоем — очень сложно
+713. Social Network на Svelte — очень сложно
+714. File Sharing с MongoDB — нормально
+715. Recipe Book с ML-фичами (recommendation) — сложно
+716. Restaurant Ordering на Python + Tkinter — сложно
+717. Helpdesk Tickets на Go + Gin — нормально
+718. Recipe Book Ruby on Rails — нормально
+719. Restaurant Ordering на PHP + Laravel — сложно
+720. CRM на Angular — сложно
+721. Podcast App на PHP + Laravel — нормально
+722. Landing Page с GraphQL — нормально
+723. Chat CLI на PowerShell — сложно
+724. Quiz App с GraphQL — нормально
+725. Todo с PostgreSQL — нормально
+726. Restaurant Ordering на Python + Flask — сложно
+727. Blog Platform с платёжными интеграциями (Stripe demo) — сложно
+728. Music Player с event sourcing и CQRS — очень сложно
+729. CMS с платёжными интеграциями (Stripe demo) — очень сложно
+730. Job Board с Redis очередями — сложно
+731. Blog Platform на Serverless (Cloud Functions) — сложно
+732. E-commerce Store на Python + FastAPI — сложно
+733. Photo Gallery с ML-фичами (recommendation) — сложно
+734. Car Rental с распределённой consensus-логикой — невозможно
+735. Notes App Ruby on Rails — нормально
+736. E-commerce Store с микросервисной архитектурой — очень сложно
+737. Social Network на Rust + Actix — очень сложно
+738. Fitness Tracker с тестами Playwright — нормально
+739. Blog Platform в Telegram Bot API — нормально
+740. Recipe Book с MongoDB — легко
+741. Helpdesk Tickets на Svelte — нормально
+742. Hotel Booking с offline-first PWA — сложно
+743. Job Board с PostgreSQL — сложно
+744. Blog Platform mobile React Native — нормально
+745. Book Library на PHP + Laravel — нормально
+746. Event Booking с PostgreSQL — сложно
+747. Notes App на Nuxt — нормально
+748. Flashcards CLI на PowerShell — легко
+749. Restaurant Ordering с Redis очередями — сложно
+750. Notes App с WebSocket real-time — сложно
+751. Fitness Tracker с WebSocket real-time — сложно
+752. Book Library native Android (Kotlin) — нормально
+753. Portfolio с WebSocket real-time — сложно
+754. Video Streaming с Redis очередями — очень сложно
+755. Calendar Scheduler с тестами Playwright — нормально
+756. Flashcards с GraphQL — нормально
+757. Video Streaming с PostgreSQL — очень сложно
+758. Password Manager с event sourcing и CQRS — очень сложно
+759. Fitness Tracker с Docker Compose — нормально
+760. Flight Booking Ruby on Rails — сложно
+761. Quiz App с offline-first PWA — нормально
+762. Budget Tracker с микросервисной архитектурой — очень сложно
+763. Recipe Book mobile Flutter — нормально
+764. Calendar Scheduler с PostgreSQL — нормально
+765. Portfolio native Android (Kotlin) — нормально
+766. Car Rental с OAuth2/JWT авторизацией — сложно
+767. Book Library с распределённой consensus-логикой — невозможно
+768. Landing Page на Serverless (Cloud Functions) — сложно
+769. Car Rental в Telegram Bot API — сложно
+770. E-commerce Store на Nuxt — сложно
+771. Video Streaming на Angular — очень сложно
+772. Forum на Nuxt — сложно
+773. Helpdesk Tickets на Python + FastAPI — нормально
+774. Inventory System на C# ASP.NET Core — нормально
+775. E-commerce Store на Svelte — сложно
+776. Todo с Docker Compose — нормально
+777. Job Board на Angular — сложно
+778. File Sharing с offline-first PWA — нормально
+779. Restaurant Ordering с Docker Compose — сложно
+780. Recipe Book на Next.js — нормально
+781. Landing Page с offline-first PWA — нормально
+782. Fitness Tracker mobile React Native — нормально
+783. Wiki на Rust + Actix — сложно
+784. Car Rental desktop Electron — сложно
+785. Blog Platform с PostgreSQL — нормально
+786. Book Library с платёжными интеграциями (Stripe demo) — сложно
+787. Book Library с Docker Compose — нормально
+788. Budget Tracker на Python + FastAPI — нормально
+789. File Sharing на Python + Flask — нормально
+790. Book Library на Python + FastAPI — нормально
+791. URL Shortener с GraphQL — нормально
+792. Habit Tracker Ruby on Rails — нормально
+793. Chat mobile React Native — сложно
+794. Calendar Scheduler на Vue 3 — нормально
+795. URL Shortener на React — легко
+796. Real Estate Listings с event sourcing и CQRS — очень сложно
+797. CMS с распределённой consensus-логикой — невозможно
+798. Flashcards с платёжными интеграциями (Stripe demo) — сложно
+799. Restaurant Ordering на Serverless (Cloud Functions) — очень сложно
+800. Password Manager с ML-фичами (recommendation) — сложно
+801. File Sharing CLI на PowerShell — нормально
+802. Quiz App на Svelte — легко
+803. Forum с Docker Compose — сложно
+804. Budget Tracker в Telegram Bot API — нормально
+805. Book Library с GraphQL — нормально
+806. File Sharing с event sourcing и CQRS — очень сложно
+807. Inventory System на React — нормально
+808. Calendar Scheduler на C# ASP.NET Core — нормально
+809. Password Manager desktop Qt/C++ — сложно
+810. Password Manager на Svelte — нормально
+811. Event Booking Ruby on Rails — сложно
+812. Poll/Survey с микросервисной архитектурой — очень сложно
+813. Poll/Survey с GraphQL — нормально
+814. Inventory System на чистом HTML/CSS/JS — нормально
+815. Blog Platform с offline-first PWA — нормально
+816. Photo Gallery desktop Qt/C++ — сложно
+817. Job Board с Docker Compose — сложно
+818. Music Player с offline-first PWA — нормально
+819. Social Network с Kubernetes деплоем — очень сложно
+820. Event Booking с Docker Compose — сложно
+821. Recipe Book с event sourcing и CQRS — очень сложно
+822. Chat с распределённой consensus-логикой — невозможно
+823. Social Network mobile React Native — очень сложно
+824. Poll/Survey native Android (Kotlin) — нормально
+825. Hotel Booking с CI/CD GitHub Actions — сложно
+826. Budget Tracker на PHP + Laravel — нормально
+827. Weather Dashboard в Telegram Bot API — легко
+828. Weather Dashboard desktop Qt/C++ — сложно
+829. Hotel Booking в Discord.js — сложно
+830. Dating App на Next.js — сложно
+831. Weather Dashboard на Serverless (Cloud Functions) — сложно
+832. Quiz App на Angular — нормально
+833. Photo Gallery на PHP + Laravel — нормально
+834. File Sharing с OAuth2/JWT авторизацией — нормально
+835. Fitness Tracker с offline-first PWA — нормально
+836. Flight Booking в Telegram Bot API — сложно
+837. Flashcards с WebSocket real-time — сложно
+838. URL Shortener на PHP + Laravel — нормально
+839. Wiki с OAuth2/JWT авторизацией — нормально
+840. Dating App с микросервисной архитектурой — очень сложно
+841. Quiz App на C# ASP.NET Core — нормально
+842. Video Streaming с микросервисной архитектурой — очень сложно
+843. Landing Page на PHP + Laravel — нормально
+844. Photo Gallery desktop Electron — нормально
+845. Learning LMS CLI на Bash — сложно
+846. Todo с GraphQL — нормально
+847. Landing Page на чистом HTML/CSS/JS — очень легко
+848. Flight Booking на Java Spring Boot — сложно
+849. Landing Page на Nuxt — нормально
+850. CRM CLI на Bash — сложно
+851. Restaurant Ordering с CI/CD GitHub Actions — сложно
+852. Quiz App на Django — нормально
+853. Wiki CLI на PowerShell — нормально
+854. Notes App с микросервисной архитектурой — очень сложно
+855. Blog Platform с микросервисной архитектурой — очень сложно
+856. Dating App на Python + FastAPI — сложно
+857. Job Board на Python + FastAPI — сложно
+858. Dating App с WebSocket real-time — очень сложно
+859. Todo на Java Spring Boot — нормально
+860. Quiz App с тестами Playwright — нормально
+861. Learning LMS native iOS (SwiftUI) — сложно
+862. Photo Gallery с платёжными интеграциями (Stripe demo) — сложно
+863. CRM на Python + Tkinter — сложно
+864. Hotel Booking в Telegram Bot API — сложно
+865. Car Rental native iOS (SwiftUI) — сложно
+866. Weather Dashboard с CI/CD GitHub Actions — нормально
+867. Password Manager на C# ASP.NET Core — нормально
+868. Job Board с ML-фичами (recommendation) — очень сложно
+869. File Sharing в Telegram Bot API — нормально
+870. Job Board на C# ASP.NET Core — сложно
+871. Car Rental на Go + Gin — сложно
+872. Restaurant Ordering на Python + FastAPI — сложно
+873. Fitness Tracker с OAuth2/JWT авторизацией — нормально
+874. Inventory System с платёжными интеграциями (Stripe demo) — сложно
+875. Landing Page на Java Spring Boot — нормально
+876. Book Library на Vue 3 — нормально
+877. Chat native Android (Kotlin) — сложно
+878. Photo Gallery с MongoDB — легко
+879. Car Rental с WebSocket real-time — очень сложно
+880. Calendar Scheduler на Python + Tkinter — нормально
+881. Chat с GraphQL — сложно
+882. CRM mobile Flutter — сложно
+883. URL Shortener native Android (Kotlin) — нормально
+884. Quiz App CLI на Bash — легко
+885. Learning LMS mobile Flutter — сложно
+886. Inventory System на Rust + Actix — сложно
+887. Fitness Tracker с Redis очередями — нормально
+888. Recipe Book на Go + Gin — нормально
+889. E-commerce Store на Serverless (Cloud Functions) — очень сложно
+890. Inventory System desktop Qt/C++ — сложно
+891. Todo на Next.js — нормально
+892. Hotel Booking Ruby on Rails — сложно
+893. Calendar Scheduler mobile React Native — нормально
+894. Budget Tracker на Vue 3 — нормально
+895. Flight Booking с тестами Playwright — сложно
+896. Helpdesk Tickets с PostgreSQL — нормально
+897. Notes App desktop Qt/C++ — сложно
+898. Car Rental с GraphQL — сложно
+899. Wiki с Redis очередями — нормально
+900. Poll/Survey с CI/CD GitHub Actions — нормально
+901. Landing Page native iOS (SwiftUI) — нормально
+902. File Sharing с Docker Compose — нормально
+903. Flashcards на чистом HTML/CSS/JS — легко
+904. URL Shortener с OAuth2/JWT авторизацией — нормально
+905. Fitness Tracker с ML-фичами (recommendation) — сложно
+906. CMS с offline-first PWA — сложно
+907. Job Board native Android (Kotlin) — сложно
+908. E-commerce Store desktop Qt/C++ — очень сложно
+909. Helpdesk Tickets CLI на Bash — нормально
+910. Book Library с WebSocket real-time — сложно
+911. Helpdesk Tickets на Nuxt — нормально
+912. Weather Dashboard на Go + Gin — нормально
+913. Chat с платёжными интеграциями (Stripe demo) — очень сложно
+914. Podcast App на Svelte — нормально
+915. Fitness Tracker в Telegram Bot API — нормально
+916. Calendar Scheduler на Python + Flask — нормально
+917. CRM с OAuth2/JWT авторизацией — сложно
+918. Weather Dashboard на Rust + Actix — сложно
+919. Landing Page с MongoDB — легко
+920. Landing Page desktop Electron — нормально
+921. Real Estate Listings на Serverless (Cloud Functions) — очень сложно
+922. Landing Page с PostgreSQL — нормально
+923. Music Player с Kubernetes деплоем — сложно
+924. CRM с PostgreSQL — сложно
+925. Dating App на React — сложно
+926. Quiz App на Node.js + Express — легко
+927. Inventory System на Vue 3 — нормально
+928. Flashcards на Vue 3 — легко
+929. Recipe Book с CI/CD GitHub Actions — нормально
+930. E-commerce Store на Vue 3 — сложно
+931. Real Estate Listings с тестами Playwright — сложно
+932. CRM на Python + Flask — сложно
+933. Video Streaming native iOS (SwiftUI) — очень сложно
+934. Book Library CLI на Bash — нормально
+935. Portfolio с PostgreSQL — нормально
+936. Video Streaming на чистом HTML/CSS/JS — очень сложно
+937. Helpdesk Tickets на Node.js + Express — нормально
+938. Password Manager с распределённой consensus-логикой — невозможно
+939. Music Player CLI на Bash — нормально
+940. Hotel Booking с Kubernetes деплоем — очень сложно
+941. Podcast App на Next.js — нормально
+942. CRM на Django — сложно
+943. Todo desktop Qt/C++ — сложно
+944. Real Estate Listings в Discord.js — сложно
+945. Flashcards с микросервисной архитектурой — очень сложно
+946. Budget Tracker на Node.js + Express — нормально
+947. Budget Tracker на React — нормально
+948. URL Shortener на Node.js + Express — легко
+949. Notes App на Go + Gin — нормально
+950. Restaurant Ordering с микросервисной архитектурой — очень сложно
+951. Recipe Book на Java Spring Boot — нормально
+952. Event Booking на React — сложно
+953. Car Rental на Next.js — сложно
+954. Notes App mobile Flutter — нормально
+955. Budget Tracker CLI на Bash — нормально
+956. Quiz App с микросервисной архитектурой — очень сложно
+957. Music Player desktop Electron — нормально
+958. CMS на Java Spring Boot — сложно
+959. URL Shortener с MongoDB — легко
+960. Restaurant Ordering на чистом HTML/CSS/JS — сложно
+961. Notes App с GraphQL — нормально
+962. Weather Dashboard native iOS (SwiftUI) — нормально
+963. Wiki на PHP + Laravel — нормально
+964. Podcast App на Angular — нормально
+965. Recipe Book на Vue 3 — легко
+966. Fitness Tracker на Python + FastAPI — нормально
+967. Learning LMS в Telegram Bot API — сложно
+968. Video Streaming на Go + Gin — очень сложно
+969. CRM на C# ASP.NET Core — сложно
+970. CMS в Telegram Bot API — сложно
+971. Forum с Redis очередями — сложно
+972. Chat на Nuxt — сложно
+973. Restaurant Ordering с тестами Playwright — сложно
+974. Blog Platform с распределённой consensus-логикой — невозможно
+975. Learning LMS с event sourcing и CQRS — очень сложно
+976. Weather Dashboard с event sourcing и CQRS — очень сложно
+977. CMS desktop Qt/C++ — очень сложно
+978. Dating App на Django — сложно
+979. Chat на PHP + Laravel — сложно
+980. Video Streaming CLI на PowerShell — очень сложно
+981. Calendar Scheduler native Android (Kotlin) — нормально
+982. CRM с CI/CD GitHub Actions — сложно
+983. Portfolio с тестами Playwright — нормально
+984. Password Manager на Serverless (Cloud Functions) — сложно
+985. Password Manager с WebSocket real-time — сложно
+986. Dating App native Android (Kotlin) — сложно
+987. Chat с Kubernetes деплоем — очень сложно
+988. Video Streaming с WebSocket real-time — очень сложно
+989. Calendar Scheduler на Node.js + Express — нормально
+990. Budget Tracker с WebSocket real-time — сложно
+991. URL Shortener на Java Spring Boot — нормально
+992. File Sharing с распределённой consensus-логикой — невозможно
+993. Podcast App с offline-first PWA — нормально
+994. Weather Dashboard с WebSocket real-time — сложно
+995. Podcast App на Java Spring Boot — нормально
+996. CMS на Django — сложно
+997. Event Booking с платёжными интеграциями (Stripe demo) — очень сложно
+998. CMS на Next.js — сложно
+999. Real Estate Listings с CI/CD GitHub Actions — сложно
+1000. Event Booking на Python + Tkinter — сложно
