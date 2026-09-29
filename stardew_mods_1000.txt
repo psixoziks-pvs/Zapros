@@ -1,0 +1,1035 @@
+1000 ИДЕЙ ПОЛЕЗНЫХ МОДОВ ДЛЯ STARDEW VALLEY
+================================================================
+
+### ГРАФИКА И ВИЗУАЛ (100 шт.) ###
+
+   1. Pixel Perfect Sprites — перерисовывает всю графику игры в более чистые пиксели без мыла
+   2. Seasonal Palette Tweak — меняет цветовую палитру каждого сезона на более тёплую/холодную
+   3. Dynamic Sky Overhaul — полностью новый набор текстур неба с реалистичными градиентами
+   4. Rain Reflections — лужи после дождя отражают здания и NPC
+   5. Snow Accumulation Layers — снег накапливается слоями на крышах и тропах
+   6. Falling Leaves FX — осенью с деревьев летают анимированные листья
+   7. Firefly Nights — светлячки ночью на ферме и в лесу с мягким свечением
+   8. Aurora Borealis Winter — северное сияние зимой над долиной
+   9. Sunbeam Godrays — лучи солнца сквозь деревья в лесу на закате
+  10. Lantern Glow Bloom — фонари дают мягкое bloom-свечение в темноте
+  11. Water Shader Refresh — вода в реке и озере с новой анимацией волн
+  12. Underwater Visibility — прозрачная вода, видно рыб и дно
+  13. Waves On Shore — барашки волн у берега озера и пляжа
+  14. Wind Sway Crops — культуры покачиваются на ветру вместе с травой
+  15. Tree Canopy Redraw — кроны деревьев перерисованы плотнее и объёмнее
+  16. Blossom Petals Rain — весной лепестки сакуры падают вокруг города
+  17. Crop Growth Stages HD — каждая стадия роста культуры нарисована детальнее
+  18. Animal Coat Variants — у коров и кур новые расцветки шерсти и оперения
+  19. Horse Armor Skins — визуальные брони для лошади (золото, сталь, дракон)
+  20. Pet Customization Plus — дополнительные окрасы кошек и собак
+  21. Chicken Breeds Visual — куры разных пород выглядят по-разному
+  22. Pig Mud Splatter — свиньи реалистично валяются в грязи
+  23. Beehive Smoke FX — пасека дымится при сборе мёда
+  24. Scarecrow Skin Pack — 30 новых косметических видов пугал
+  25. Mansion Decor Packs — альтернативные наборы мебели для дома
+  26. Interior Lighting Colors — настраиваемый цвет внутреннего освещения
+  27. Tavern Warm Light — в баре Пьера тёплая атмосферная подсветка
+  28. Shop Window Displays — витрины магазинов с товарными манекенами
+  29. Community Center Restored Art — ЦК после восстановления выглядит празднично
+  30. Junimo Forest Glade — полянка джунимо с волшебным свечением
+  31. Mine Layer Themes — каждый этаж шахты имеет свой визуальный подтип
+  32. Lava Flow Animation — лава на 120 этаже с новой анимацией течения
+  33. Gemstone Sparkle — самоцветы в шахте переливаются бликами
+  34. Ore Node Reskins — рудные узлы различимы по цвету и блеску
+  35. Fish Splash FX — рыба при подсечке делает красивый всплеск
+  36. Rainbow After Storm — после дождя иногда появляется радуга
+  37. Foggy Mornings — утренний туман в долине в межсезонье
+  38. Star Chart Night — яркая звёздная карта с созвездиями
+  39. Moon Phase Visual — луна меняет фазы визуально каждую ночь
+  40. Eclipse Event Sky — редкое визуальное затмение раз в год
+  41. Volcano Ash Particles — в вулкане летают частицы пепла
+  42. Desert Heat Shimmer — марево над песком в пустыне
+  43. Island Palm Shadows — пальмы отбывают красивую тень
+  44. Ginger Island Fog — туман над джунглями имбирного острова
+  45. Greenhouse Glass Refraction — стекло теплицы преломляет свет
+  46. Binocular Zoom Sharpen — бинокль с чётким зумом наблюдения
+  47. Portrait Upscale NPC — портреты жителей перерисованы в высоком разрешении
+  48. Dialogue Emoji Icons — в диалогах эмоциональные иконки над головой
+  49. Emotion Bubble Indicators — над жителями всплывают пузырьки настроения
+  50. Friendship Heart Popup — анимированное сердце при росте дружбы
+  51. Marriage Sparkle FX — конфетти и блеск на свадьбе
+  52. Wedding Venue Skins — выбирай место проведения свадьбы визуально
+  53. Festival Fireworks HD — салюты на фестивалях с новой графикой
+  54. Fair Ground Lights — ярмарочные огни мигают в ритм музыке
+  55. Haunted Maze Glow — тыквы в лабиринте светятся изнутри
+  56. Skeleton Dance Night — скелеты на танцполе в Хэллоуин
+  57. Christmas Snowglobe UI — зимнее меню как снежный шар
+  58. New Year Balloon Drop — воздушные шары на площади в Новый год
+  59. Egg Hunt Colorful Eggs — пасхальные яйца разных оттенков
+  60. Flower Dance Outfits — жители танцуют в нарядных костюмах
+  61. Luau Boat Parade — лодочный парад на летнем фестивале
+  62. Cornucopia Harvest Table — большой праздничный стол на ярмарке урожая
+  63. Solstice Portal Glow — портал солнцестояния пульсирует магическим светом
+  64. Spouse Garden Personal — у супруга своя мини-грядка во дворе
+  65. Mailbox Skins — почтовые ящики в 15 дизайнах
+  66. Signpost Redesign — указатели в деревне читабельнее и красивее
+  67. Bridge Decor Railings — перила мостов с резьбой
+  68. Vase Flower Arrangements — букеты в вазах собраны художественно
+  69. Wallpaper Gallery Walls — галерея картин на стенах дома
+  70. Rug Pattern Pack — 40 новых узоров ковров
+  71. Curtain Styles — шторы разных фасонов на окнах
+  72. Chandelier Addon — люстры для большого дома
+  73. Bookshelf Variety — полки с разными книжными сериями
+  74. Aquarium Coral Reskin — аквариумы с новыми кораллами и рыбками
+  75. Terrarium Moss Detail — террариумы с детализированным мхом
+  76. Statue Of Perfection Shine — статуя совершенства блестит золотом
+  77. Golden Clock Tower — часы площади позолочены
+  78. Fountain Koi Pond — фонтан Пелликана с кои в бассейне
+  79. Market Stall Awnings — полосатые навесы на прилавках ярмарки
+  80. Bus Stop Shelter Art — автобусная остановка с постерами
+  81. Trailer Interior Remodel — трейлер Льюиса отремонтирован визуально
+  82. Carpenter Shop Blueprint Wall — чертежи на стене у Робин
+  83. Blacksmith Forge Glow — горн Клинтов светится жаром
+  84. Museum Display Cases — витрины музея со стеклянным блеском
+  85. Library Reading Nook — уютный уголок чтения в библиотеке
+  86. Clinic Waiting Room Decor — приёмная клиники с журналами
+  87. Saloon Wild West Style — салун Мидж в стиле Дикого Запада
+  88. Wizard Tower Mysticism — башня мага с рунами и кристаллами
+  89. Dark Shrine Atmosphere — алтарь тьмы с зловещим туманом
+  90. Island Shrine Torches — храмы острова с факелами и тотемами
+  91. Volcano Bridge Lava Rails — перила моста над лавой
+  92. Quarry Rail Cart Visual — вагонетки карьера с анимацией
+  93. Skull Island Palm Beach — Череп-остров с красивым пляжем
+  94. Submarine Viewport Frame — рамка иллюминатора батискафа
+  95. Ghost Translucent Shade — призраки полупрозрачные и пугающие
+  96. Shadow Person Silhouette — теневой человек силуэтный и жуткий
+  97. Dust Sprite Cutscene Art — катсцены пылинок в шахте
+  98. Monster Eye Glow — глаза монстров светятся в темноте этажей
+  99. Weapon Trail Effects — оружие оставляет след взмаха
+ 100. Sword Skin Palette — скины клинков (лазурь, обсидиан, золото)
+
+### ЗВУКИ И МУЗЫКА (100 шт.) ###
+
+ 101. Ambient Birdsongs Pack — 60 новых птичьих трелей по сезонам и локациям
+ 102. Wind Whoosh Layers — многослойный ветер в горах и на острове
+ 103. Rain Intensity Sounds — звук дождя меняется от мороси до ливня
+ 104. Thunder Rumble Depth — гром с настоящим низкочастотным гулом
+ 105. River Flow Stereo — течение реки панорамируется в стерео
+ 106. Ocean Wave Loop — бесшовный шум прибоя на пляже
+ 107. Mine Echo Reverb — шаги и удары эхом разносятся по шахте
+ 108. Distant Wolf Howl — вой волков ночью у леса
+ 109. Crickets Night Chorus — стрекот сверчков в вечернем саду
+ 110. Frog Croak Pond — кваканье лягушек у пруда весной
+ 111. Woodpecker Forest — стук дятла в случайных местах леса
+ 112. Crow Caw Ominous — карканье ворон перед плохой погодой
+ 113. Rooster Morning Crow — петух будит фермера разным криком
+ 114. Cow Moo Variety — коровы мычат с вариациями интонации
+ 115. Chicken Cluck Batch — кудахтанье целой стаи при кормлении
+ 116. Pig Snort Cute — хрюканье свиней с милыми нотками
+ 117. Sheep Baa Echo — овцы блеют с лёгким эхо
+ 118. Goat Bleat Funny — козлиное bleating с комичными модуляциями
+ 119. Horse Gallop Hooves — топот копыт по грунту и камню
+ 120. Dog Bark Guard — собака лает на непрошеных гостей
+ 121. Cat Purr Petting — мурчание при гладке кошки
+ 122. Junimo Giggle Sound — смешки джунимо при работе на ферме
+ 123. Sprite Bell Chime — колокольчик феи дождя
+ 124. Harvest Thump Crate — глухой стук урожая в ящик
+ 125. Axe Wood Crack — треск древесины при рубке
+ 126. Pickaxe Stone Clink — звон кирки по камню
+ 127. Hoe Soil Squelch — влажный шлепок мотыги по земле
+ 128. Watering Gentle Pour — нежное льющееся поливание
+ 129. Fishing Reel Click — щелчки катушки при вываживании
+ 130. Fish Struggle Splash — бульканье сопротивляющейся рыбы
+ 131. Treasure Chest Jingle — звон сокровищ при открытии сундука
+ 132. Weapon Swing Slice — свист рассекаемого воздуха
+ 133. Sword Clash Parry — лязг при блокировании
+ 134. Monster Growl New — новые рычания для всех монстров
+ 135. Slime Squish Wet — чавкающее лопание слаймов
+ 136. Bat Screech Cave — визг летучих мышей в пещере
+ 137. Skeleton Rattle Bones — тряска костей скелетов
+ 138. Golem Rock Grind — скрежет каменного голема
+ 139. Void Ghost Whisper — шёпот пустотных призраков
+ 140. Metal Head Clank — звон металлических голов
+ 141. Bug Swarm Buzz — жужжание жуков на острове
+ 142. Serpent Hiss Strike — шипение змей перед атакой
+ 143. Quartz Golem Shatter — хруст разбиваемого кварца
+ 144. Ladder Climb Rung — скрип перекладин при лазании
+ 145. Elevator Ding Floor — мелодичный дзынь лифта этажей
+ 146. Bus Engine Start — мотор автобуса заводится и гудит
+ 147. Minecart Roll Clack — стук вагонетки по рельсам
+ 148. Teleport Warble — арпеджио телепортации
+ 149. Save Game Chime — приятный аккорд при сохранении
+ 150. Level Up Fanfare — фанфары повышения уровня навыка
+ 151. Skill Star Sparkle — звёздочка при получении очка навыка
+ 152. Quest Complete Trumpet — труба при выполнении задания
+ 153. Achievement Ping — мягкий сигнал достижения
+ 154. Hearts Increase Pulse — пульс при росте очков дружбы
+ 155. Gift Thank You Line — жители говорят спасибо своим голосом
+ 156. Marriage Vow Music — собственная музыкальная тема свадьбы
+ 157. Child Laugh Home — детский смех в доме после рождения ребёнка
+ 158. Pet Name Call — оклик питомца по имени
+ 159. Door Creak Old — скрип старых дверей в особняке
+ 160. Gate Latch Metal — щеколда ворот и заборов
+ 161. Fence Build Hammer — удары молотка при строительстве Робин
+ 162. Cooking Sizzle Pan — шипение сковороды при готовке
+ 163. Chop Knife Block — стук ножа по разделочной доске
+ 164. Keg Ferment Bubble — бульканье брожения в бочке
+ 165. Cask Aging Creak — скрип созревающего напитка в погребе
+ 166. Furnace Roar — рёв топки плавильни
+ 167. Recycler Crunch — хруст переработки мусора
+ 168. Seed Maker Whir — жужжание сеялки
+ 169. Sprinkler Tick Spray — тиканье и пшик спринклеров
+ 170. Harvest Machine Beep — писки автоматической техники
+ 171. Drone Hum Farm — гул дрона-опрыскивателя
+ 172. Radio Station Static — помехи старого радио в доме
+ 173. Jukebox Vinyl Crackle — потрескивание винила в музыкальном салоне
+ 174. Festival Drum March — барабанный марш на параде
+ 175. Wedding String Quartet — струнный квартет на церемонии
+ 176. Rain Jazz Theme — джазовая тема под дождём в городе
+ 177. Snow Bell Melody — мелодия колокольчиков в метель
+ 178. Night Ambient Drone — низкий эмбиент глубокой ночью
+ 179. Forest Flute Solo — флейтовое соло в лесу днём
+ 180. Beach Steel Drums — стальные барабаны на острове
+ 181. Volcano Tribal Percussion — ударные туземные ритмы в вулкане
+ 182. Desert Wind Flute — флейта пустынного ветра
+ 183. Quarry Industrial Clank — индустриальные звуки карьера
+ 184. Museum Quiet Ambience — тихая атмосфера зала музея
+ 185. Library Page Turn — шелест переворачиваемых страниц
+ 186. Cave Piano Melancholy — фортепиано в меланхоличной пещере
+ 187. Church Organ Hymns — органные гимны для свадебной церемонии
+ 188. Main Theme Acoustic Version — акустическая аранжировка заглавной темы
+ 189. Winter Dance Remix — ремикс зимней музыки для фестиваля
+ 190. Battle Theme Intensify — боевая тема усиливается при низком HP
+ 191. Boss Encounter Stinger — джингл появления опасного врага
+ 192. Victory Jingle Floor — победный джингл зачистки этажа
+ 193. Defeat Fade Out — печальное затухание мелодии при смерти
+ 194. Loudness Equalizer — выравниватель громкости всех эффектов
+ 195. Volume Ducking Music — музыка приглушается под важные звуки
+ 196. 3D Positional Audio — пространственное позиционирование звуков
+ 197. Footstep Surface Types — шаги различают дерево, камень, траву, снег
+ 198. Wet Footsteps Rain — шлёпающие мокрые шаги после дождя
+ 199. Snow Crunch Step — хруст снега под ногами зимой
+ 200. Crackling Firewood Hearth — потрескивание дров в камине
+
+### ОПТИМИЗАЦИЯ И ТЕХНИЧЕСКОЕ (100 шт.) ###
+
+ 201. Load Time Booster — ускоряет загрузку сохранений на 40% параллельным чтением
+ 202. Chunk Loading Farm — подгружает карту фермы чанками вместо всего сразу
+ 203. Texture Atlas Packer — упаковывает спрайты в атласы, снижая число draw calls
+ 204. VRAM Saver — выгружает текстуры неиспользуемых локаций из памяти
+ 205. GC Tuner — снижает частоту сборки мусора для стабильных фреймов
+ 206. FPS Unlocker — плавное снятие ограничения кадров
+ 207. VSync Options — гибкие настройки вертикальной синхронизации
+ 208. Frame Limiter Slider — ползунок лимита FPS прямо в меню
+ 209. Background Process Pause — игра останавливается когда окно свёрнуто
+ 210. Steam Deck Preset — готовые настройки управления и масштабирования
+ 211. Controller Layout Pro — расширенные схемы геймпада с горячими клавишами
+ 212. Touch Mode UI — интерфейс с крупными кнопками для планшетов
+ 213. Resolution Scaling — рендер в пониженном разрешении с апскейлом
+ 214. Pixel Snap Toggle — переключатель пиксельного выравнивания камеры
+ 215. Zoom Smoothness — плавный зум без дёрганья спрайтов
+ 216. Minimap Cache — кэш мини-карты для быстрого открытия
+ 217. UI Blur Perf Fix — отключает тяжёлое размытие фона в меню
+ 218. Shadow Quality Settings — уровни качества теней
+ 219. Particle Density Slider — регулятор плотности частиц
+ 220. NPC Offscreen Sleep — жители просчитываются только рядом с игроком
+ 221. Animal AI Throttle — упрощённый ИИ животных вне экрана
+ 222. Sprinkler Batch Update — все спринклеры обновляются одним пакетом
+ 223. Machine Tick Optimizer — оборудование проверяется реже без потерь
+ 224. Item Entity Merger — объединяет дроп одинаковых предметов в стопки
+ 225. Drop Stack Limit — лимит наземных предметов для стабильности
+ 226. Far Item Despawn — предметы далеко от игрока не грузят систему
+ 227. Pathfinding Cache — кэш маршрутов жителей экономит процессор
+ 228. Schedules Precompute — расписания NPC считаются заранее
+ 229. Event Script Compiler — компилирует события в быстрый байткод
+ 230. Save File Compressor — сохраняет архив компактнее на 30%
+ 231. Auto Backup Manager — ротация резервных копий без тормозов
+ 232. Corrupt Save Shield — защита от записи при нехватке места
+ 233. Multiplayer Bandwidth Saver — сжимает пакеты в сетевой игре
+ 234. Lag Compensation Net — сглаживание рывков в кооперативе
+ 235. Host Migration Helper — передача хоста без потери прогресса
+ 236. Connection Indicator — индикатор пинга в углу экрана
+ 237. Disconnect Reconnect Auto — автопереподключение к серверу
+ 238. Mod Load Profiler — показывает какие моды грузятся дольше всех
+ 239. Dependency Checker — предупреждает о конфликтах модов до запуска
+ 240. Conflict Resolver UI — интерфейс выбора приоритета патчей
+ 241. SMAPI Bridge Compat — мост совместимости для старых модов
+ 242. Content Rebuild Cache — кэш пересборки контента XNB
+ 243. Asset Unload Idle — выгружает простаивающие ассеты
+ 244. Memory Leak Hunter — находит и чистит утечки памяти
+ 245. Crash Reporter Send — отправляет отчёт о краше с логом
+ 246. Safe Mode Launch — запуск без модов при крахе на старте
+ 247. Error Toast Friendly — понятные сообщения ошибок вместо стека
+ 248. Log Noise Filter — фильтр спама в логах
+ 249. Debug Overlay Toggle — переключаемый оверлей FPS и RAM
+ 250. Benchmark Tool — встроенный бенчмарк сцены фермы
+ 251. Settings Import Export — импорт и экспорт конфигурации между ПК
+ 252. Cloud Sync Settings — синхронизация настроек через облако
+ 253. Keybind Reset Default — сброс клавиш одной кнопкой
+ 254. Gamepad Hotplug — подключение геймпада на ходу
+ 255. Audio Device Switch — переключение аудио-устройства без рестарта
+ 256. Fullscreen Borderless — оконный безрамочный режим
+ 257. Ultra Wide Support — поддержка соотношения сторон 21:9
+ 258. HiDPI Scaling — корректный масштаб на 4K мониторах
+ 259. Colorblind Deuteranopia — палитра для дальтоников с зелёным дефектом
+ 260. Colorblind Protanopia — палитра для дальтоников с красным дефектом
+ 261. Colorblind Tritanopia — коррекция для голубого дефекта
+ 262. High Contrast UI — высококонтрастный интерфейс
+ 263. Font Size Slider — регулировка размера шрифтов
+ 264. Subtitle System — субтитры реплик жителей
+ 265. Screen Reader Tags — теги для экранных читалок
+ 266. Dyslexia Font Option — шрифт OpenDyslexic для текста
+ 267. Reduced Motion Mode — меньше тряски экрана и мелькания
+ 268. Flash Warning Filter — фильтрация вспышек для фоточувствительных
+ 269. Input Buffer Tuning — настройка буфера ввода команд
+ 270. Mouse Smoothing Off — отключение сглаживания мыши
+ 271. Scroll Speed Config — скорость прокрутки списков
+ 272. Search Everywhere — мгновенный поиск по любому списку
+ 273. Sort Performance Index — быстрая сортировка больших сундуков
+ 274. Chest Search Indexed — индексированный поиск по содержимому сундуков
+ 275. Tooltip Lazy Render — тултипы рендерятся только по требованию
+ 276. Menu Instant Open — меню открываются без задержки анимации
+ 277. Fast Travel Cache — кэш точек быстрого перемещения
+ 278. Location Transition Fade — короткие загрузочные затемнения
+ 279. Preload Next Area — предзагрузка следующей локации
+ 280. Async Texture Upload — асинхронная загрузка текстур без фризов
+ 281. Shader Compile Cache — кэш шейдеров между запусками
+ 282. MonoGame Patch Loader — безопасная установка графических патчей
+ 283. Harmony Conflict Guard — защита от двойной патчи одного метода
+ 284. Version Gate Check — проверка версии игры перед запуском модов
+ 285. Update Rollback — откат обновления игры до стабильной версии
+ 286. Portable Install Mode — переносная установка без реестра
+ 287. Linux Wine Tuner — пресеты оптимизации под Linux
+ 288. Mac Metal Backend — бэкенд Metal для macOS
+ 289. Steam Cloud Conflict Fix — решение конфликтов Steam Cloud
+ 290. GOG Compat Wrapper — обёртка совместимости для GOG-версии
+ 291. Console Command Safe — консоль без риска испортить сейв
+ 292. Admin Lock Save — замок против правки сохранений другими
+ 293. File Watcher Debounce — защита от лишних перезагрузок при правке файлов
+ 294. Throttled Autosave — автосохранение без просадки кадров
+ 295. Sleep Timer Quit — автозакрытие игры по таймеру
+ 296. Low Spec Preset — один клик для слабого ПК
+ 297. Quality Presets Trio — готовые пресеты качества низкий/средний/высокий
+ 298. Custom Preset Slots — слоты пользовательских пресетов
+ 299. Performance HUD Alerts — предупреждение при падении FPS
+ 300. Screenshot Lossless — скриншоты без потерь качества
+
+### АВТОМАТИЗАЦИЯ И КАЧЕСТВО ЖИЗНИ (QoL) (100 шт.) ###
+
+ 301. Smart Sprinkler Upgrade — спринклеры улучшенной версии захватывают больше клеток
+ 302. Auto Watering Drone — дрон поливает грядки утром сам
+ 303. Harvest Bot — робот собирает созревшие культуры в инвентарь
+ 304. Weed Whacker Auto — автопрополка по расписанию
+ 305. Fertilizer Applicator — автомат наносит удобрения на поле
+ 306. Seed Dispenser Machine — машина сеет семена из бункера
+ 307. Crop Rotation Planner — планировщик севооборота с напоминаниями
+ 308. Greenhouse Climate Control — автоподдержка температуры теплицы
+ 309. Sprinkler Schedule Editor — график работы спринклеров по часам
+ 310. Rain Skip Alert — уведомление что завтра дождь и полив не нужен
+ 311. Animal Feeder Deluxe — автокормушка с запасом корма
+ 312. Auto Pet Reminder — напоминает погладить животных или делает это сам
+ 313. Egg Collect Conveyor — конвейер собирает яйца в ящик
+ 314. Milk Machine Express — экспресс-дойка без очереди
+ 315. Wool Shearing Scheduler — стрижка овец по календарю
+ 316. Truffle Finder Pig Assist — свинья сама приносит трюфели в сундук
+ 317. Bee House Auto Honey — мёд автоматически сливается в банки
+ 318. Silk Moth Harvester — автоматический сбор коконов
+ 319. Keg Restock Pipeline — пустые бочки заполняются фруктами сами
+ 320. Preserves Jar Queue — очередь варки варенья по приоритету
+ 321. Furnace Auto Ore Feed — подача руды и угля в плавильню
+ 322. Charcoal Kiln Loader — автозагрузка дерева в углевыжигатель
+ 323. Crystalarium Manager — управление производством кристаллов
+ 324. Geode Cracking Machine — автоматическая вскрыция жеод
+ 325. Recycler Sorter — сортировка переработанного по сундукам
+ 326. Compost Accelerator — ускоренное производство компоста
+ 327. Oil Maker Batch — пакетная выжимка масла
+ 328. Juicer Speed Line — скоростная линия соков
+ 329. Tapper Network Monitor — панель слежения за всеми tapping-устройствами
+ 330. Maple Syrup Collector Auto — автосбор сиропа с клёнов
+ 331. Mushroom Log Harvester — сбор грибов с брёвен
+ 332. Cask Retrieval Bot — доставка выдержанных продуктов из погреба
+ 333. Fishing Rod AFK Stand — стойка авто-рыбалки (медленная, для баланса)
+ 334. Bait Auto Reel — приманка перезаряжается сама
+ 335. Bait Notifier — предупреждение когда приманка кончилась
+ 336. Tackle Box Organizer — автоподбор снастей под погоду
+ 337. Bait Bulk Discount — скидка на опт приманки
+ 338. Chum Bucket Auto Thrower — автомат выбрасывает чум-бакет
+ 339. Fish Treasure Finder — подсказка где сундуки при ловле
+ 340. Mining Lantern Carrier — перенос света в шахту автоматически
+ 341. Ladder Placer Auto — сам ставит лестницу при пробитии пола
+ 342. Elevator Quick Floors — кнопки часто используемых этажей
+ 343. Ore Smelter Contract — контракт: руда уходит на плавку сама
+ 344. Gem Sorter Chest — сундук сортирует камни по ячейкам
+ 345. Monster Loot Vacuum — пылесбор лута с монстров
+ 346. Slime Incubator Manager — автозагрузка яиц в инкубатор
+ 347. Slime Roundup Fence AI — слаймы загоняются в секции сами
+ 348. Stray Animal Return — убежавшие животные возвращаются сами
+ 349. Gate Opener Remote — пульт открытия ворот фермы
+ 350. Pet Treat Dispenser — автодача лакомств за настроение
+ 351. Horse Boarding Scheduler — табун на пастбище по расписанию
+ 352. Coop Door Closer — дверь курятника закрывается на закате
+ 353. Barn Ventilation Auto — вентиляция амбара по температуре
+ 354. Grass Regrowth Booster — трава отрастает быстрее и равномернее
+ 355. Hay Blower Feeder — разбрасыватель сена по стойлам
+ 356. Water Trough Refill — автопоилки наполняются сами
+ 357. Pasture Rotation Zones — ротационные загоны для травы
+ 358. Fence Repair Fund — бюджет на авторемонт заборов
+ 359. Path Maintenance Crew — дорожки сами очищаются от мусора
+ 360. Debris Sweeper Morning — утренний уборщик камней с поля
+ 361. Stone Pickup Magnet — магнит сбора камней на ферме
+ 362. Twig Gatherer Bot — сбор веток автоматически
+ 363. Foraging Spotlight — подсветка точек фуражирования на карте
+ 364. Seasonal Forage Alert — уведомление о сезонных дарах леса
+ 365. Mystery Tree Farmer — таинственные деревья дают урожай семян
+ 366. Nut Producer Line — производство орехов конвейером
+ 367. Seed Extractor Bulk — пакетная экстракция семян
+ 368. Planter Cup Auto Fill — стаканчики рассады заполняются сами
+ 369. Hydroponic Tray System — гидропонные лотки в теплице
+ 370. Grow Lamp Timer — лампы досветки работают по таймеру дня
+ 371. Gold Sprinkler Expand — расширение зоны золотых спринклеров
+ 372. Utility Pole Wire Manager — провода электропитания оборудования
+ 373. Power Grid Balance — баланс нагрузки генераторов
+ 374. Solar Panel Array — солнечные панели для энергии
+ 375. Wind Turbine Farm — ветряки питают механизмы
+ 376. Battery Storage Bank — накопители энергии на ночь
+ 377. Fuel Injector Efficiency — экономия топлива техники
+ 378. Combine Harvester Mod — большой комбайн для зерновых
+ 379. Mini Tractor Vehicle — трактор возит игрока и грузы
+ 380. Plow Attachment — плуг вспахивает большие участки
+ 381. Seeder Trailer — прицеп-сеялка
+ 382. Cargo Balloon — воздушный шар перевозит сундуки
+ 383. Telechest Network Expansion — больше сундуков телепортации
+ 384. Iron Road Builder — железная дорога по ферме
+ 385. Mine Elevator Direct — лифт сразу на нужную глубину
+ 386. Guild Contract Runner — контракты гильдии выполняются фоново
+ 387. Daily Quest Roller — ежедневные задания генерируются интереснее
+ 388. Shipping Bin Mega — гигантский приёмный бункер у дома
+ 389. Auto Sell Price Watch — продажа когда цена максимальна
+ 390. Order Board Notifier — уведомления о новых заказах
+ 391. Bundle Checklist Helper — чек-лист коллекций с отметками
+ 392. Gift Idea Assistant — советует подарки жителям
+ 393. Birthday Calendar Widget — виджет дней рождений
+ 394. Friendship Level Tracker — трекер очков дружбы
+ 395. Romance Date Planner — планировщик свиданий
+ 396. Child Care Scheduler — уход за ребёнком по времени
+ 397. Spouse Chore Assign — распределение домашних дел супруга
+ 398. Chores Completion Bonus — бонус за выполнение обязанностей
+ 399. Home Cleaning Service — уборка дома за деньги
+ 400. Pantry Restock List — список закупок в кладовую
+
+### НОВЫЙ КОНТЕНТ (100 шт.) ###
+
+ 401. New Village Oakhollow — новая деревня с шестью жителями и своей площадью
+ 402. Traveling Merchant Family — семья торговцев с постоянной лавкой
+ 403. Marriageable Marina — новая невеста-ихтиандр с водной темой
+ 404. Marriageable Cedric — новый жених библиотекарь-мечтатель
+ 405. Marriageable Bram — угрюмый грибник в качестве супруга
+ 406. Marriageable Elara — звонарка часовни
+ 407. Livestock Ducks — утки дают яйца и пух
+ 408. Livestock Geese — гуси охраняют ферму от воров
+ 409. Livestock Alpacas — альпаки дают мягкую шерсть
+ 410. Livestock Ostriches — страусы бегают и несут огромные яйца
+ 411. Livestock Yaks — яки для холодных биомов
+ 412. New Fish Species 25 — 25 новых видов рыбы по всем локациям
+ 413. Legendary Fish Trio — три легендарные рыбы с квестами
+ 414. Spring Crops Plus — 8 весенних культур (спаржа, ревень, мангольд)
+ 415. Summer Crops Plus — перцы, баклажаны, дыни
+ 416. Fall Crops Plus — тыква-гигант, брюква, шпинат
+ 417. Winter Crops Greenhouse — 8 зимних тепличных деликатесов
+ 418. Berry Bushes Trio — ежевика, смородина, крыжовник
+ 419. Nut Trees Grove — ореховые деревья (фундук, миндаль, грецкий)
+ 420. Giant Crop Variants — гигантские версии обычных культур
+ 421. Hybrid Rose Flowers — гибридные розы с особыми цветами
+ 422. Tea Varieties — чайные кусты с сортами улун и пуэр
+ 423. Coffee Region Beans — региональные зёрна для кофейни
+ 424. Spice Garden — пряная грядка: базилик, розмарин, шафран
+ 425. Medicine Herbs — лекарственные травы для зелий
+ 426. Culinary Mushrooms — белые, лисички, трюфели культивируемые
+ 427. Cooking Recipes Tier 2 — 40 рецептов второго уровня сложности
+ 428. Desserts Bakery Line — выпечка: эклеры, наполеон, чизкейки
+ 429. Soups And Stews — супы и рагу в горшочках
+ 430. Sushi Bar Menu — суши-сет с рисом и нори
+ 431. Pizza Oven Craft — пицца на дровах с топпингами
+ 432. Cheese Types Aging — сыры с выдержкой: гауда, пармезан
+ 433. Wine Regions Appellation — вина по регионам с терруаром
+ 434. Craft Beer Kegs — крафтовое пиво: IPA, стаут, лагер
+ 435. Mead Honey Wine — медовуха разных сортов
+ 436. Exotic Jam Flavors — варенье из экзотов: питахайя, личи
+ 437. Oil Infusions — настоенные масла с травами
+ 438. Vinegar Production — уксус из вина и яблок
+ 439. Pickling Barrel — бочка для солений и квашения
+ 440. Smoking Meat Rack — коптильня мяса и рыбы
+ 441. Jerky Variants — вяленое мясо пяти вкусов
+ 442. Chocolate Factory Line — какао-бобы превращаются в шоколад
+ 443. Candy Making Station — аппарат для леденцов
+ 444. Ice Cream Parlor Flavors — мороженое с новыми вкусами
+ 445. Ramen Shop Build — строительство раменной
+ 446. Food Truck Business — фудтрак с доставкой
+ 447. Farmers Market Stall — своя торговая точка на рынке
+ 448. Mine Floor Crystal Caverns — этаж с кристальными пещерами
+ 449. Mine Floor Fungal Depths — грибные глубины со спорами
+ 450. Mine Floor Frozen Hollow — ледяной провал
+ 451. Mine Floor Ancient Ruins — руины древних с головоломками
+ 452. Underground Lake Fishing — подводное озеро с особой рыбой
+ 453. Gem Moonstone — лунный камень для ювелирки
+ 454. Gem Sunstone — солнечный камень
+ 455. Ore Titanium — титан для прочных инструментов
+ 456. Ore Cobalt — кобальт для синих сплавов
+ 457. Alloy Damascus Steel — дамасская сталь для мечей
+ 458. Weapon Whip — кнут как оружие
+ 459. Weapon Crossbow — арбалет с болтами
+ 460. Weapon War Hammer — боевой молот
+ 461. Tool Sickle — серп для сбора травы
+ 462. Artifact Dinosaur Bones — кости динозавра для музея
+ 463. Artifact Ancient Tablet — древние таблицы с текстом
+ 464. Fossil Excavation — раскопки окаменелостей кисточкой
+ 465. Butterfly Collecting — ловля бабочек сачком в коллекцию
+ 466. Beetle Species — жуки для коллекции энтомолога
+ 467. Bird Watching Guide — орнитологический журнал
+ 468. Saltwater Aquarium — морские аквариумы с новыми видами
+ 469. Invasive Species Quest — квест про инвазивные виды
+ 470. Festival Lantern Release — фестиваль фонарей на воде
+ 471. Festival Cherry Picnic — пикник цветения сакуры
+ 472. Festival Bee Day — день пчеловода с дегустацией мёда
+ 473. Festival Cheese Fair — сырная ярмарка
+ 474. Festival Miners Day — День шахтёра с конкурсом
+ 475. Festival Fishing Derby Pro — профессиональные соревнования рыбаков
+ 476. Festival Harvest Feast — общий стол урожая
+ 477. Festival Star Gazing — ночь наблюдения звёзд
+ 478. Festival Snow Sculpture — конкурс снежных скульптур
+ 479. Festival Kite Flying — день воздушных змеев
+ 480. Festival Mushroom Walk — поход за грибами
+ 481. Festival Shearing Fair — ярмарка стрижки овец
+ 482. Quest Lost Locket — квест пропавшего медальона
+ 483. Quest Ghost Engineer — призрак строителя тоннеля
+ 484. Quest Witch Apprentice — ученица ведьмы
+ 485. Quest Dragon Egg — загадка яйца дракона
+ 486. Quest River Cleanup — очистка реки от мусора
+ 487. Quest Old Mill — восстановление мельницы
+ 488. Quest Abandoned Cabin — заброшенная хижина
+ 489. Quest Music Box — мелодия музыкальной шкатулки
+ 490. Quest Painters Muse — муза художника
+ 491. Quest Chef Rival — кулинарное соперничество
+ 492. Skill Jewcrafting — создание украшений
+ 493. Skill Pottery — гончарное дело на круге
+ 494. Skill Weaving — ткачество ковров
+ 495. Building Artist Studio — студия художника на ферме
+ 496. Area Hot Springs Valley — долина горячих источников
+ 497. Area Old Lighthouse — старый маяк на мысу
+ 498. Area Sunken Ship — затонувший корабль для дайвинга
+ 499. Area Bamboo Forest — бамбуковая роща на острове
+ 500. Building Pottery Workshop — гончарная мастерская на ферме
+
+### ДОРАБОТКИ ГЕЙМПЛЕЯ И БАЛАНСА (100 шт.) ###
+
+ 501. Energy Balance Tweaks — настраиваемый расход энергии инструментов
+ 502. Stamina Regen Rate — скорость восстановления сил
+ 503. Crop Yield Variance — варьируемость урожая для реализма
+ 504. Price Fluctuation Weekly — цены на культуры колеблются еженедельно
+ 505. Supply Demand Market — спрос и предложение влияют на сбыт
+ 506. Seasonal Price Bonus — сезонные премии за урожай
+ 507. Quality Impact On Sale — качество сильнее влияет на цену
+ 508. Organic Premium — надбавка за органические продукты
+ 509. Local Selling Bonus — продажа местным жителям выгоднее
+ 510. Wholesale Contracts — оптовые контракты с рисками
+ 511. Export Trade Route — экспортный маршрут за бонусы
+ 512. Warehouse Rental — склад вместимости с арендой
+ 513. Tool Wear Depreciation — износ инструментов требует ремонта
+ 514. Repair Bench — верстак починки снаряжения
+ 515. Tool Durability Bars — полоски прочности инструментов
+ 516. Upgrade Cost Tune — настраиваемая кривая стоимости улучшений
+ 517. Bank Loans — кредиты под процент в банке
+ 518. Debt Consequences — последствия просрочки кредита
+ 519. Crop Insurance — страхование урожая от шторма
+ 520. Storm Damage Risk — риск гибели грядок от непогоды
+ 521. Pest Outbreaks — нашествия вредителей с лечением
+ 522. Weed Competition — сорняки отнимают рост у культур
+ 523. Soil Fertility Stats — параметры плодородия почвы
+ 524. Compost Quality Effect — качество компоста влияет на урожай
+ 525. Water Needs Depth — потребность культур в воде тоньше настроена
+ 526. Sunlight Requirement — требование солнца по сторонам света
+ 527. Pollination Bees — опыление пчёлами нужно для завязи
+ 528. Frost Warning Sensor — датчик заморозков спасает посадки
+ 529. Greenhouse Automation Tier — автоматизация теплиц по уровню
+ 530. Livestock Mood Mechanics — настроение животных влияет на продукт
+ 531. Feed Quality Nutrients — питательность корма важна
+ 532. Grazing Grass Value — ценность выпаса зависит от травы
+ 533. Breeding Genetics — генетика пород с признаками
+ 534. Offspring Inheritance — потомство наследует качества родителей
+ 535. Horse Bond Levels — уровни связи с лошадью
+ 536. Pet Affection Effects — привязанность питомца даёт бонусы
+ 537. Vet Visits — ветеринар лечит болезни животных
+ 538. Disease Quarantine — карантин при болезнях стада
+ 539. Fishing Difficulty Curve — настраиваемая кривая сложности ловли
+ 540. Fish Behavior Seasons — поведение рыб меняется по сезонам
+ 541. Tide Influences — приливы влияют на клёв
+ 542. Lunar Phase Bite — фазы луны влияют на ночную рыбалку
+ 543. Weather Fishing Modifier — погода модифицирует клёв
+ 544. Bait Chemistry Combos — химия комбинаций приманок
+ 545. Tackle Specializations — специализации снастей
+ 546. Deep Sea Expedition — экспедиции в глубоководье
+ 547. Diving Breath Meter — кислород при нырянии
+ 548. Underwater Treasures — подводные сокровища
+ 549. Combat Aggression Scaling — агрессия монстров растёт с этажом
+ 550. Enemy Respawn Balance — баланс возрождения врагов
+ 551. Weapon Rarity Tiers — тиры редкости оружия
+ 552. Enchantment Slots Limited — слоты зачарований ограничены
+ 553. Ring Combo Advanced — сложные комбинации колец
+ 554. Food Buff Duration — длительность бафов от еды
+ 555. Negative Food Effects — вредная еда даёт дебафы
+ 556. Alcohol Hangover — похмелье после вечеринок
+ 557. Caffeine Crash — кофеиновый буст и последующий спад
+ 558. Sleep Quality Score — качество сна влияет на утро
+ 559. Insomnia Events — бессонница случается случайно
+ 560. Napping Recovery — дневной сон восстанавливает понемногу
+ 561. Jet Lag — усталость после перелёта на остров
+ 562. Fitness Stat — фитнес-параметр фермера
+ 563. Stretch Before Work — разминка повышает эффективность
+ 564. Mining Injuries — травмы при падениях в шахте
+ 565. First Aid Bandage — аптечка первой помощи
+ 566. Bed Rest Recovery — постельный режим лечит
+ 567. Lucky Days — случайные счастливые дни
+ 568. Unlucky Days — несчастные дни с помехами
+ 569. Fortune Cookie — печенье судьбы предсказывает события
+ 570. Horoscope Buff — гороскоп даёт ежедневный баф
+ 571. Superstition Charms — суеверные талисманы
+ 572. Collection Set Bonuses — бонусы за полные коллекции
+ 573. Museum Donation Rewards — награды музея за дары
+ 574. Complete Collection Prize — приз за полную коллекцию категории
+ 575. Speedrun Timer — режим спидрана с таймером
+ 576. Randomizer Seed — рандомайзер ресурсов по сиду
+ 577. Starting Farm Variants — варианты стартовой фермы
+ 578. Heirloom Item — фамильная реликвия в начале игры
+ 579. Generational Play — играть за поколение детей
+ 580. Retirement Ending — выбор ухода на пенсию
+ 581. New Game Plus — перенос навыков в новую игру
+ 582. Endless Mode — бесконечный режим после финала
+ 583. Weekly Challenges — еженедельные вызовы сообщества
+ 584. Statistics Deep Dive — глубокая статистика фермы
+ 585. Profit Charts — графики дохода по годам
+ 586. Margin Calculator — калькулятор маржинальности
+ 587. Cost Per Crop Analysis — анализ затрат по культуре
+ 588. Labor Hours Counter — счётчик трудовых часов
+ 589. Efficiency Grade — оценка эффективности хозяйства
+ 590. Farm Rating Stars — звёздный рейтинг фермы
+ 591. Inspector Visits — визиты инспектора с проверками
+ 592. Building Permits — разрешения на постройки
+ 593. Zoning Rules — зонирование участков
+ 594. Noise Complaints — жалобы соседей на шум
+ 595. Eco Impact Points — экологические баллы
+ 596. Sustainability Badge — значок устойчивого развития
+ 597. Wildlife Habitat Score — оценка среды обитания зверей
+ 598. Tree Planting Duty — обязанность сажать деревья
+ 599. Recycling Program — программа переработки отходов
+ 600. Composting Incentive — стимул компостирования
+
+### МУЛЬТИПЛЕЕР И СОЦИАЛЬНОЕ (100 шт.) ###
+
+ 601. Shared Farm Roles — роли на общей ферме: пастух, шахтёр, повар
+ 602. Trust Permissions Panel — панель доверия и прав игроков
+ 603. Player Reputation Score — рейтинг надёжности игрока
+ 604. Invite By Code — приглашение по коду-ссылке
+ 605. Server Browser Lobby — браузер публичных миров
+ 606. Whitelist Manager — белый список участников сервера
+ 607. Kick Ban Controls — модерация: кики и баны
+ 608. Offline Member Protection — защита построек офлайн-игрока
+ 609. Claim Plot Land — закрепление участка за игроком
+ 610. No Build Zone Flags — запрет зон строительства
+ 611. Theft Prevention Locks — замки от воровства из сундуков
+ 612. Storage Access Groups — группы доступа к общим складам
+ 613. Trade Window — прямое окно обмена между игроками
+ 614. Auction House — аукцион между игроками
+ 615. Barter System — бартер товаров без денег
+ 616. Currency Sync Rules — правила синхронизации валют
+ 617. Shared Tax Fund — общий налог на инфраструктуру
+ 618. Communal Treasury — общая казна фермы
+ 619. Vote On Purchases — голосование за крупные покупки
+ 620. Village Democracy — демократичные решения деревни
+ 621. Discord Presence Bridge — статус игры в Discord
+ 622. Cross Platform Invite — кроссплатформенные приглашения
+ 623. Mobile Companion App — приложение-компаньон на телефоне
+ 624. Second Screen Inventory — второй экран как инвентарь
+ 625. Drop In Join — присоединение в середине игрового дня
+ 626. Catchup Bonus — бонус догоняющему новичку
+ 627. Hire NPC Workers — найм временных работников-жителей
+ 628. Job Board For Players — доска заданий между игроками за плату
+ 629. Bounty Splitting — разделение награды за работу
+ 630. Party Quest Objectives — общие цели группы
+ 631. Follow Me Teleport — телепорт к лидеру группы
+ 632. Group Mine Run — групповые экспедиции в шахту
+ 633. Revive Friend — воскрешение упавшего друга
+ 634. Shared XP Pool — общий пул опыта
+ 635. Co-op Fishing Tournament — совместный рыболовный турнир
+ 636. Harvest Race Team — командная гонка урожая
+ 637. Relay Festival Events — эстафетные фестивальные события
+ 638. Bundle Division — разделение коллекций между игроками
+ 639. Player Gifting — взаимные подарки игроков
+ 640. User Friendship System — система дружбы между людьми
+ 641. Joint Wedding Ceremonies — совместные свадебные церемонии
+ 642. Family Tree Co-op — семейное древо в кооперативе
+ 643. Joint Adoption — совместное усыновление детей
+ 644. Nursery Duty Rotation — совместная очередь опеки ребёнка
+ 645. Shared Pet — общий питомец на ферму
+ 646. Hosted Dinner Parties — званые ужины с игроками
+ 647. Potluck Dish — блюдо на общий стол фестиваля
+ 648. Recipe Exchange Club — клуб обмена рецептами
+ 649. Seed Swap Meet — ярмарка обмена семенами
+ 650. Breeding Collab — совместная селекция животных
+ 651. Landscaping Cooperation — совместный ландшафтный дизайн
+ 652. Blueprint Share — обмен чертежами построек
+ 653. Farm Tour Showcase — витрина экскурсий по фермам
+ 654. Like And Comment Farms — лайки и комментарии к фермам
+ 655. Best Farm Of Week — лучшая ферма недели
+ 656. Screenshot Gallery — социальная галерея скриншотов
+ 657. Story Journal — общий дневник историй
+ 658. Roleplay Name Tags — ролевые имена и теги
+ 659. Guild Creation — создание гильдий
+ 660. Guild Hall Building — здание гильдии
+ 661. Guild Ranks — звания участников гильдии
+ 662. Territory Disputes — соревнования гильдий за территории
+ 663. Alliance Treaties — союзы и договоры
+ 664. Interworld Trade Routes — торговые пути между мирами
+ 665. Caravan Missions — караванные миссии
+ 666. Server Event Calendar — событийный календарь сервера
+ 667. Global Leaderboards — глобальные таблицы лидеров
+ 668. Community Season Pass — сезонный пропуск сообщества
+ 669. Shared Goals Meter — шкала общих целей
+ 670. Monument Build Together — совместное строительство памятника
+ 671. Town Project Voting — голосование за проекты города
+ 672. Public Works Funding — финансирование общественных работ
+ 673. School Fundraiser — школьный сбор средств
+ 674. Charity Drive — благотворительные сборы
+ 675. Park Renovation — реконструкция парка силами игроков
+ 676. Beach Cleanup Day — день уборки пляжа
+ 677. Reforestation Project — проект восстановления леса
+ 678. Wildlife Sanctuary — создание заповедника
+ 679. Fish Stocking Program — зарыпление водоёмов
+ 680. Bee Corridor Planting — посадка пчелиных коридоров
+ 681. Community Orchard — общественный сад
+ 682. Shared Greenhouse Complex — общий комплекс теплиц
+ 683. Co-op Granary — общее зернохранилище
+ 684. Mill Cooperative — мельничный кооператив
+ 685. Dairy Collective — молочный коллектив
+ 686. Cheese Consortium — сырный консорциум
+ 687. Wine Guild — винная гильдия
+ 688. Brewers Alliance — альянс пивоваров
+ 689. Bakers Circle — круг пекарей
+ 690. Foragers Society — общество собирателей
+ 691. Miners Union — профсоюз шахтёров
+ 692. Anglers Federation — федерация рыболовов
+ 693. Riders Club — клуб наездников
+ 694. Drone Pilots Association — ассоциация пилотов дронов
+ 695. Architects Guild — гильдия архитекторов
+ 696. Decorators League — лига декораторов
+ 697. Photographers Walk — фото-прогулки
+ 698. Jam Session — музыкальные джемы игроков
+ 699. Poets Corner — уголок поэтов
+ 700. Storytellers Campfire — костёр рассказчиков
+
+### ИНТЕРФЕЙС И UX (100 шт.) ###
+
+ 701. Inventory Grid Resize — изменяемый размер сетки инвентаря
+ 702. Item Search Bar — строка поиска предметов везде
+ 703. Favorites Slot Row — ряд избранных предметов
+ 704. Recent Items Tab — вкладка недавно использованных
+ 705. Tooltips Expanded Info — расширенные тултипы с ценами и временем
+ 706. Growth Timer Tooltip — тултип показывает когда созреет культура
+ 707. Animal Product ETA — прогноз производства молока и яиц
+ 708. Machine Finish Clock — часы окончания работы станка
+ 709. Queue Preview Panel — предпросмотр очереди производства
+ 710. Chest Label Colors — цветовые метки сундуков
+ 711. Chest Icon Tagging — иконки категорий на сундуках
+ 712. Search Within Chest — поиск внутри сундука
+ 713. Sort By Newest — сортировка по новизне получения
+ 714. Filter By Rarity — фильтр по редкости
+ 715. Category Tabs Filter — вкладки категорий
+ 716. Hide Empty Slots — скрывать пустые позиции
+ 717. Stack Split Dialog — диалог разделения стопок
+ 718. Quick Move Bind — быстрое перемещение предмета по клавише
+ 719. Drag Multiple Select — выделение перетаскиванием
+ 720. Right Click Equip — правый клик для экипировки
+ 721. Context Menu Items — контекстное меню предмета
+ 722. Item Compare Hover — сравнение двух предметов при наведении
+ 723. Best Gear Highlight — подсветка лучшей экипировки
+ 724. Trash Confirm Guard — подтверждение выбрасывания ценного
+ 725. Undo Last Action — отмена последнего действия
+ 726. Undo Item Move — отмена перемещения предмета
+ 727. Redo Support — повтор отменённого
+ 728. Action History Log — журнал действий
+ 729. Command Palette — палитра команд как Ctrl+K
+ 730. Radial Hotbar Wheel — радиальное колесо быстрого слота
+ 731. Tool Wheel On Hold — зажатие кнопки открывает круг инструментов
+ 732. Keybind Rebind UI — интерфейс смены клавиш
+ 733. Controller Button Prompts — подсказки кнопок геймпада
+ 734. Button Icon Themes — темы иконок контроллера
+ 735. One Hand Remap — схема управления для одной руки
+ 736. Sticky Keys Support — залипание клавиш
+ 737. On-Screen Keyboard — экранная клавиатура
+ 738. Cursor Magnifier — лупа курсора
+ 739. Highlight Cursor — подсветка курсора
+ 740. Color Picker Labels — пипетка цвета для меток
+ 741. Contrast Checker — проверка контрастности интерфейса
+ 742. Text Outline — обводка текста для читаемости
+ 743. UI Scale Independent — независимое масштабирование интерфейса
+ 744. Weather Forecast Icon — иконка прогноза погоды
+ 745. Tomorrow Weather Hint — подсказка какая погода завтра
+ 746. Calendar Sidebar — боковой календарь с днями рождениями
+ 747. Festival Countdown — обратный отсчёт до фестиваля
+ 748. Floating Checklist — плавающий чек-лист задач
+ 749. Goals Of Day Widget — виджет целей дня
+ 750. Reminder Notifications — напоминания о событиях
+ 751. Notification Center — центр уведомлений
+ 752. Do Not Disturb Hours — тихие часы
+ 753. Toast Sound Options — настройки звука уведомлений
+ 754. Journal Tabs — вкладки журнала
+ 755. Quest Pin Tracker — закрепление квеста
+ 756. Waypoint Arrow — стрелка к цели
+ 757. Custom Map Pins — пользовательские метки карты
+ 758. Map Legend — легенда цветов карты
+ 759. Zone Labels — подписи зон на карте
+ 760. Distance Indicator — расстояние до точки
+ 761. Fast Travel Favorites — избранные точки телепорта
+ 762. Waystone Map — карта сети камней телепортации
+ 763. Minimap Transparency — прозрачность мини-карты
+ 764. Minimap Zoom — приближение мини-карты
+ 765. Minimap North Rotate — ориентация мини-карты
+ 766. Compass Strip — компасная лента внизу экрана
+ 767. Unified Interaction Prompts — единые подсказки взаимодействия
+ 768. Prompt Distance Config — настройка дистанции подсказки
+ 769. Hover Silence — отключение звука наведения
+ 770. Sound Feedback Toggle — переключатель звукового отклика
+ 771. Animation Speed Slider — скорость анимаций интерфейса
+ 772. Instant Menus — мгновенные меню без анимации
+ 773. Tab Memory — запоминает открытые вкладки
+ 774. Scroll Position Keep — сохраняет позицию прокрутки
+ 775. Column Resize Lists — изменение ширины колонок
+ 776. Table View Chests — табличный вид сундуков
+ 777. List View Alternative — альтернативный списочный вид
+ 778. Grid List Toggle — переключатель сетка/список
+ 779. Thumbnail Size Slider — ползунок размера иконок
+ 780. High Res Icons — иконки высокого разрешения
+ 781. Unified Item Icons — единый стиль иконок предметов
+ 782. Category Color Coding — цветовое кодирование категорий
+ 783. Status Effect Icons — иконки эффектов бафов и дебафов
+ 784. Buff Timer Rings — кольца таймеров бафов
+ 785. Cooldown Arcs — дуги перезарядки действий
+ 786. Machine Progress Circles — круги прогресса станков
+ 787. Percent Overlay — проценты поверх прогресса
+ 788. Profit Estimate Number — прогноз прибыли числом
+ 789. ROI Per Crop — окупаемость на культуру
+ 790. Break Even Hint — подсказка точки безубыточности
+ 791. Tutorial Markers — маркеры шагов обучения
+ 792. Contextual Hints — контекстные подсказки
+ 793. No Spoilers Mode — режим без спойлеров сюжетов
+ 794. Beginner Defaults — дружелюбные настройки новичка
+ 795. Expert Info Mode — экспертный режим с полной инфой
+ 796. Config Profiles — профили конфигураций
+ 797. Settings JSON Import — импорт и экспорт настроек
+ 798. Reset Per Section — сброс по разделам
+ 799. Settings Search — поиск по настройкам
+ 800. Setting Tooltips — подсказки к каждому пункту настроек
+
+### МИР, NPC И СОБЫТИЯ (100 шт.) ###
+
+ 801. Living Schedules — жители имеют динамичное гибкое расписание
+ 802. Overheard Conversations — слышны обрывки разговоров жителей
+ 803. Gossip System — слухи передаются между жителями
+ 804. Relationship Drama — драма отношений жителей влияет на реплики
+ 805. Seasonal Dialogue — реплики меняются каждый сезон
+ 806. Small Talk Effects — светская беседа влияет на настроение
+ 807. Random Kindness — жители совершают добрые поступки
+ 808. Street Conflicts — мелкие бытовые конфликты на улице
+ 809. Festival Prep Weeks — подготовка к фестивалям начинается за недели
+ 810. Decoration Crew — жители вешают украшения перед праздником
+ 811. Market Day Bustle — базарный день с толпой и торгами
+ 812. Rare Goods Caravan — караван с редкими товарами
+ 813. Mysterious Stranger — прибытие таинственного незнакомца
+ 814. Prospector Tales — истории старого старателя
+ 815. Council Meetings — заседания совета города
+ 816. Mayor Election — выборы главы долины с агитацией
+ 817. Newspaper Front Page — первая полоса газеты реагирует на события
+ 818. Radio Announcements — объявления по радио деревни
+ 819. Bulletin Updates — доска объявлений обновляется ежедневно
+ 820. Lost And Found — заметки находок и потерь
+ 821. Wanted Posters — плакаты о головах монстров
+ 822. Missing Pet Flyers — листовки о потерянных питомцах
+ 823. Help Wanted Signs — вывески о найме
+ 824. Weather Warnings — метеопредупреждения
+ 825. Storm Shelter — укрытие во время шторма
+ 826. River Flood — разлива реки весной
+ 827. Drought Heatwave — засуха и тепловые волны
+ 828. Blizzard Closure — метель перекрывает дороги
+ 829. Icy Paths — скользкие тропы зимой
+ 830. Avalanche — лавина на горном перевале
+ 831. Mine Earthquake — подземные толчки в шахте
+ 832. Meteor Shower — звездопад с подбором осколков
+ 833. Annual Comet — комета пролетает раз в году
+ 834. UFO Sighting — наблюдение НЛО над фермой
+ 835. Campfire Ghost Stories — байки у костра
+ 836. Poltergeist — полтергейм двигает предметы дома
+ 837. Haunted Painting — картина следит за игроком
+ 838. Mirror Realm — зеркальный мир с загадкой
+ 839. Time Loop Day — день с временной петлёй
+ 840. Dream Sequences — сновидения при сне
+ 841. Nightmare Stress — кошмары при стрессе
+ 842. Prophetic Dream — вещий сон подсказывает событие
+ 843. Vision Quest — поисковое видение для навыков
+ 844. Ancestor Advice — дух предка советует
+ 845. Old Farm Photo — находка старой фотографии фермы
+ 846. Hidden Letters — скрытые письма раскрывают лор
+ 847. Diary Pages — страницы дневника предыдущего владельца
+ 848. Ruin Inscriptions — перевод надписей руин
+ 849. Ancient Language — изучение древнего языка
+ 850. Scholar NPC — учёный занимается исследованием
+ 851. Expedition Grant — грант на экспедицию
+ 852. Cartographer Update — картограф обновляет карту
+ 853. Boundary Survey — геодезист размечает границы
+ 854. Land Deed Quest — квест оформления земли
+ 855. Tax Notice — налоговое уведомление
+ 856. Violation Fine — штраф за нарушение правил
+ 857. Cleanup Day — день коммунальной уборки
+ 858. Tree Ceremony — церемония посадки дерева
+ 859. Harvest Blessing — ритуал благословения урожая
+ 860. Rain Dance — церемония вызова дождя
+ 861. Solstice Worship — поклонение солнцу в солнцестояние
+ 862. Full Moon Festival — праздник полнолуния
+ 863. New Moon Quiet — новолуние тихий день
+ 864. Wandering Minstrel — песни странствующего менестреля
+ 865. Street Performers — уличные артисты на площади
+ 866. Art Exhibition — выставка и конкурс искусств
+ 867. Photo Walk Prize — фотопрогулка с призом
+ 868. Cooking Showdown — кулинарное шоу на сцене
+ 869. Blind Taste Test — слепая дегустация выпечки
+ 870. Cheese Rolling — катание сыра с горы
+ 871. Seed Spitting Contest — плевание семечками арбуза
+ 872. Apple Bobbing — ловля яблок ртом
+ 873. Corn Hole Tournament — турнир по кукурузной дырке
+ 874. Ice Fishing Contest — зимняя рыбалка в лунке
+ 875. Ski Race — лыжная гонка со склона
+ 876. Sledding Hill — катание на санках
+ 877. Snowball Arena — арена снежков
+ 878. Pond Skating — каток на пруду
+ 879. Bonfire Night — костровое собрание
+ 880. Marshmallow Roast — жарение маршмеллоу
+ 881. Stargazing Blanket — лежанка для наблюдения звёзд
+ 882. Telescope Rental — аренда телескопа
+ 883. Planetarium Dome — шоу планетария
+ 884. Balloon Ride — полёт на воздушном шаре
+ 885. Paragliding — paragliding с утёса
+ 886. Kayak Tour — каякинг по реке
+ 887. Canoe Trip — каноэ по озеру
+ 888. Ferry Schedule — расписание парома
+ 889. Station Expansion — расширение вокзала
+ 890. Stagecoach Route — маршрут дилижанса
+ 891. Airmail Delivery — воздушная почта
+ 892. Pigeon Post — голубиная почта
+ 893. Signal Beacons — сигнальные костры
+ 894. Lighthouse Keeper — дежурство смотрителя маяка
+ 895. Foghorn Warning — туманный горн предупреждает
+ 896. Rescue Boat — спасательный катер в шторм
+ 897. Lifebuoy Stations — спасательные круги на пляже
+ 898. Shark Flag — флаг предупреждения акул
+ 899. Comet Watch Club — клуб наблюдателей комет на холме
+ 900. Ghost Lantern Procession — шествие призрачных фонарей в канун Хэллоуина
+
+### СБОРНИКИ МОДПАКОВ И УЗКИЕ СИМУЛЯЦИИ (100 шт.) ###
+
+ 901. Balanced Mod Framework — каркас который автоматически балансирует другие моды
+ 902. Vanilla Plus Tweaks — аккуратные улучшения без ломания баланса
+ 903. Quality Of Life Bundle — сборник мелких полезных правок
+ 904. Essential Fixes Pack — исправления багов ванили
+ 905. Community Bug Backlog — публичный список багов с фиксами
+ 906. Perf Regression Guard — защита от замедляющих модов
+ 907. Compatibility Matrix — матрица совместимости модов
+ 908. One-Click Modpack Installer — установник готовых сборок модов
+ 909. Beginner Modpack — проверенный набор для новичков
+ 910. Hardcore Modpack — хардкорный набор для ветеранов
+ 911. Cozy Modpack — уютный набор для релакса
+ 912. Industrial Modpack — промышленный набор механизмов
+ 913. Roleplay Modpack — набор погружения для ролевой игры
+ 914. Interior Decorator Pack — набор декора интерьера
+ 915. Farming Realism Pack — реализм земледелия
+ 916. Fantasy Adventure Pack — фэнтези приключенческий набор
+ 917. Sci-Fi Farm Pack — научно-фантастическая ферма
+ 918. Horror Nights Pack — набор ужастиков
+ 919. Festival Extras Pack — расширенные фестивали
+ 920. Culinary Arts Pack — набор кулинарного искусства
+ 921. Crafting Deepening Pack — углублённое крафтовое дело
+ 922. Exploration Expanded Pack — расширенное исследование
+ 923. Social Simulation Pack — симуляция социальных связей
+ 924. Economy Overhaul Pack — переработка экономики
+ 925. Ecology Balance Pack — экологический баланс
+ 926. Animal Welfare Pack — благополучие животных
+ 927. Botany Science Pack — ботаническая наука
+ 928. Geology Mining Pack — геология и добыча
+ 929. Hydrology Water Pack — гидрология воды
+ 930. Meteorology Pack — метеорология погоды
+ 931. Astronomy Sky Pack — астрономия неба
+ 932. Entomology Bugs Pack — энтомология насекомых
+ 933. Ornithology Birds Pack — орнитология птиц
+ 934. Ichthyology Fish Pack — ихтиология рыб
+ 935. Herpetology Pack — герпетология рептилий
+ 936. Mycology Mushrooms Pack — микология грибов
+ 937. Arboriculture Trees Pack — дендрология деревьев
+ 938. Permaculture Design Pack — пермакультура
+ 939. Agroforestry Pack — агролесоводство
+ 940. Hydroponics Tech Pack — гидропоника
+ 941. Vertical Farming Pack — вертикальные фермы
+ 942. Urban Farming Pack — городское фермерство
+ 943. Self-Sufficient Homestead — самодостаточное хозяйство
+ 944. Off-Grid Power Pack — автономная энергия
+ 945. Rainwater Harvesting — сбор дождевой воды
+ 946. Solar Thermal Heating — солнечное тепло
+ 947. Biogas Digester — биогазовая установка
+ 948. Green Roof Buildings — зелёные крыши
+ 949. Passive House Design — пассивный дом
+ 950. Companion Planting — совместные посадки культур
+ 951. Barrel Aging Curves — кривые выдержки в бочке
+ 952. Cheese Cave Humidity — влажность сырного погреба
+ 953. Bread Fermentation Times — времена брожения хлеба
+ 954. Coffee Roast Levels — уровни обжарки кофе
+ 955. Tea Oxidation States — состояния окисления чая
+ 956. Honey Floral Sources — медоносы по цветам
+ 957. Olive Press Quality — качество оливкового пресса
+ 958. Cacao Conching — конширование какао
+ 959. Sugar Refining Stages — стадии очистки сахара
+ 960. Salt Evaporation Pans — выпаривание соли
+ 961. Spice Grinding Freshness — свежесть помола специй
+ 962. Umami Ingredient Set — набор умами ингредиентов
+ 963. Fermentation Crocks — глиняные бродильные горшки
+ 964. Kimchi Sauerkraut Line — линия кимчи и квашеной капусты
+ 965. Pickled Everything — маринование всего подряд
+ 966. Curing Charcuterie — вяленое мясное производство
+ 967. Smoking Wood Chips — щепа для копчения
+ 968. Aging Room Climate — климат комнаты выдержки
+ 969. Cellar Temperature Control — контроль температуры погреба
+ 970. Humidity Gauge — измеритель влажности
+ 971. Smoke Detector Safety — пожарная безопасность
+ 972. Ash Cleanup — уборка пепла камина
+ 973. Chimney Sweep — трубочист приходит раз в сезон
+ 974. Roof Leak Repair — ремонт протечек крыши
+ 975. Pest Control Service — службы дератизации
+ 976. Guard Dogs — собаки против хищников
+ 977. Fox Raid — набег лисицы на курятник
+ 978. Raccoon Bandit — енот роется в мусоре
+ 979. Crow Seed Theft — вороны воруют семена
+ 980. Mole Hills — кроты делают насыпи на газоне
+ 981. Garden Rabbits — кролики портят грядки
+ 982. Deer Crossing — олени переходят дорогу
+ 983. Predator Repellent — средство отпугивания хищников
+ 984. Motion Sensor Light — свет с датчиком движения
+ 985. Electric Fence — электрозабор опционально
+ 986. Night Watch — ночное дежурство
+ 987. Barn Cat — наём дворового кота
+ 988. Guard Geese — стая гусаков-охранников
+ 989. Sheepdog Commands — управление пастушьей собакой
+ 990. Riding Lessons — уроки верховой езды
+ 991. Show Jumping — соревнования по конкуру
+ 992. Horse Grooming — груминг лошади
+ 993. Hoof Trimming — коваль подрезает копыта
+ 994. Saddle Fitting — подбор седла
+ 995. Bridle Comfort — комфорт уздечки
+ 996. Hay Grades — сорта качества сена
+ 997. Pasture Soil Test — тест почвы пастбища
+ 998. Grazing Plan — план ротационного выпаса
+ 999. Cheese Aging Log — журнал выдержки сыров по полкам
+1000. Bread Recipe Booklet — пекарская книга с техкартами
+
+================================================================
+Всего идей: 1000
